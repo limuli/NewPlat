@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<params>
+  <param>
+    <name>strMainHostIP</name>
+    <value>192.168.3.105</value>
+  </param>
+  <param>
+    <name>strMainHostPort</name>
+    <value>3001</value>
+  </param>
+  <param>
+    <name>strJituanHostIP</name>
+    <value>212.64.12.60</value>
+  </param>
+  <param>
+    <name>strJituanHostPort</name>
+    <value>3001</value>
+  </param>
+  <param>
+    <name>strJituanHostDomain</name>
+    <value>baidu.com</value>
+  </param>
+  <param>
+    <name>AllowNum</name>
+    <value>1</value>
+  </param>
+</params>

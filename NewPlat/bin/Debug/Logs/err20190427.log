@@ -1,0 +1,48 @@
+﻿2019-04-27 15:43:26,443 [10] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.UpdateRand_num(String MeterRand_num, String Original_MeterId) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 12202
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 86
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-27 15:43:28,647 [14] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.UpdateRand_num(String MeterRand_num, String Original_MeterId) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 12202
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 86
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-27 15:43:29,644 [14] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.UpdateRand_num(String MeterRand_num, String Original_MeterId) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 12202
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 86
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-27 15:43:38,956 [11] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.UpdateMeterTest(String MeterRand_num, String Meteriport, Nullable`1 MeterTime, String MeterTest, String Original_MeterId) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 12079
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 238
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-27 15:43:41,372 [8] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.UpdateRand_num(String MeterRand_num, String Original_MeterId) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 12202
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 248
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-27 15:43:50,612 [5] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.UpdateRand_num(String MeterRand_num, String Original_MeterId) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 12202
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 248
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

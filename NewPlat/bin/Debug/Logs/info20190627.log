@@ -1,0 +1,83 @@
+﻿2019-06-27 00:09:37,996 [1] INFO  MyServer-19515494 - The server instance MyServer-19515494 has been started!
+2019-06-27 16:48:34,182 [1] INFO  MyServer-37251161 - The server instance MyServer-37251161 has been started!
+2019-06-27 16:49:33,560 [5] INFO  MyServer-37251161 - Session: 124aadf2-348f-4fc2-b5c5-3eb4221fb8c3/192.168.3.103:50771
+A new session connected!
+2019-06-27 16:49:33,630 [6] INFO  MyServer-37251161 - Session: 124aadf2-348f-4fc2-b5c5-3eb4221fb8c3/192.168.3.103:50771
+This session was closed for ClientClosing!
+2019-06-27 16:50:22,585 [13] INFO  MyServer-37251161 - Session: 7c46dfd4-8246-4594-b90f-4e605f45f7c9/192.168.3.103:50784
+A new session connected!
+2019-06-27 16:50:49,942 [7] INFO  MyServer-37251161 - Session: 7c46dfd4-8246-4594-b90f-4e605f45f7c9/192.168.3.103:50784
+This session was closed for ClientClosing!
+2019-06-27 16:54:30,869 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-06-27 16:54:49,104 [10] INFO  MyServer-720107 - Session: cc96f7bc-672c-472e-bc7c-ec5c09d87b6f/192.168.3.103:50985
+A new session connected!
+2019-06-27 16:54:53,702 [12] INFO  MyServer-720107 - Session: cc96f7bc-672c-472e-bc7c-ec5c09d87b6f/192.168.3.103:50985
+This session was closed for ApplicationError!
+2019-06-27 16:56:11,369 [7] INFO  MyServer-720107 - Session: e397adec-b273-46e6-9b6c-a3b2f4c42f03/192.168.3.103:51008
+A new session connected!
+2019-06-27 16:56:40,264 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-06-27 16:57:23,765 [7] INFO  MyServer-720107 - Session: bcfab5ca-5b4e-4e3f-9b19-eed2de5c619c/192.168.3.103:51035
+A new session connected!
+2019-06-27 16:57:43,655 [5] INFO  MyServer-720107 - Session: bcfab5ca-5b4e-4e3f-9b19-eed2de5c619c/192.168.3.103:51035
+This session was closed for ClientClosing!
+2019-06-27 16:58:17,144 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been stopped!
+2019-06-27 16:59:28,048 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-06-27 16:59:35,992 [17] INFO  MyServer-720107 - Session: 25421348-4ca5-4a23-9c1c-dd578f8063a5/192.168.3.103:51080
+A new session connected!
+2019-06-27 16:59:38,998 [20] INFO  MyServer-720107 - Session: 25421348-4ca5-4a23-9c1c-dd578f8063a5/192.168.3.103:51080
+This session was closed for ClientClosing!
+2019-06-27 17:32:12,149 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been stopped!
+2019-06-27 17:40:35,124 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-06-27 17:40:45,095 [10] INFO  MyServer-720107 - Session: 2b2272d6-f79c-43d2-8bf9-d9b01f59204d/192.168.3.103:51806
+A new session connected!
+2019-06-27 17:40:46,069 [16] INFO  MyServer-720107 - Session: 2b2272d6-f79c-43d2-8bf9-d9b01f59204d/192.168.3.103:51806
+This session was closed for ClientClosing!
+2019-06-27 17:41:05,231 [10] INFO  MyServer-720107 - Session: 8f91848e-50bd-4585-b92a-41f55013545c/192.168.3.103:51818
+A new session connected!
+2019-06-27 17:41:08,106 [19] INFO  MyServer-720107 - Session: 8f91848e-50bd-4585-b92a-41f55013545c/192.168.3.103:51818
+This session was closed for ClientClosing!
+2019-06-27 17:41:27,454 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been stopped!
+2019-06-27 17:43:07,142 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-06-27 17:43:22,324 [7] INFO  MyServer-720107 - Session: f97e546d-6dbe-4fb8-9d11-2c58642af39d/192.168.3.103:51849
+A new session connected!
+2019-06-27 17:43:23,153 [16] INFO  MyServer-720107 - Session: f97e546d-6dbe-4fb8-9d11-2c58642af39d/192.168.3.103:51849
+This session was closed for ClientClosing!
+2019-06-27 17:43:31,069 [7] INFO  MyServer-720107 - Session: 2e1dc286-6076-4256-b8db-bb66467edb54/192.168.3.103:51858
+A new session connected!
+2019-06-27 17:43:33,371 [7] INFO  MyServer-720107 - Session: c7636a5c-2cd1-4768-ac6c-8219537de178/192.168.3.103:51865
+A new session connected!
+2019-06-27 17:43:34,075 [20] INFO  MyServer-720107 - Session: 2e1dc286-6076-4256-b8db-bb66467edb54/192.168.3.103:51858
+This session was closed for ClientClosing!
+2019-06-27 17:43:38,073 [24] INFO  MyServer-720107 - Session: c7636a5c-2cd1-4768-ac6c-8219537de178/192.168.3.103:51865
+This session was closed for ClientClosing!
+2019-06-27 17:43:49,068 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been stopped!
+2019-06-27 17:47:20,722 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-06-27 17:47:26,558 [11] INFO  MyServer-720107 - Session: 5942ce64-b0ff-4a1b-aa5d-681c5dfa9e73/192.168.3.103:51905
+A new session connected!
+2019-06-27 17:47:28,730 [17] INFO  MyServer-720107 - Session: 5942ce64-b0ff-4a1b-aa5d-681c5dfa9e73/192.168.3.103:51905
+This session was closed for ClientClosing!
+2019-06-27 17:47:39,711 [11] INFO  MyServer-720107 - Session: b6032b77-14a7-470e-8553-c82a9c1b1bf5/192.168.3.103:51919
+A new session connected!
+2019-06-27 17:47:42,717 [21] INFO  MyServer-720107 - Session: b6032b77-14a7-470e-8553-c82a9c1b1bf5/192.168.3.103:51919
+This session was closed for ClientClosing!
+2019-06-27 17:49:40,094 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-06-27 17:49:44,258 [10] INFO  MyServer-720107 - Session: caaa05a2-6411-45cc-bab3-6ea10d366881/192.168.3.103:51976
+A new session connected!
+2019-06-27 17:49:45,976 [10] INFO  MyServer-720107 - Session: 10ac08ba-f673-4969-88be-338968a9b40e/192.168.3.103:51986
+A new session connected!
+2019-06-27 17:49:46,247 [16] INFO  MyServer-720107 - Session: caaa05a2-6411-45cc-bab3-6ea10d366881/192.168.3.103:51976
+This session was closed for ClientClosing!
+2019-06-27 17:49:48,027 [10] INFO  MyServer-720107 - Session: 0d9bb6a9-42a7-41a2-a1c4-f67676506c36/192.168.3.103:51992
+A new session connected!
+2019-06-27 17:49:50,231 [20] INFO  MyServer-720107 - Session: 10ac08ba-f673-4969-88be-338968a9b40e/192.168.3.103:51986
+This session was closed for ClientClosing!
+2019-06-27 17:49:55,231 [25] INFO  MyServer-720107 - Session: 0d9bb6a9-42a7-41a2-a1c4-f67676506c36/192.168.3.103:51992
+This session was closed for ClientClosing!
+2019-06-27 17:49:59,028 [10] INFO  MyServer-720107 - Session: 790405be-3949-453b-b426-50d5964f1d93/192.168.3.103:52008
+A new session connected!
+2019-06-27 17:50:03,033 [30] INFO  MyServer-720107 - Session: 790405be-3949-453b-b426-50d5964f1d93/192.168.3.103:52008
+This session was closed for ClientClosing!
+2019-06-27 17:50:09,083 [10] INFO  MyServer-720107 - Session: 73c19eec-d8f3-4cac-93d0-e9010fe32795/192.168.3.103:52031
+A new session connected!
+2019-06-27 17:50:13,089 [35] INFO  MyServer-720107 - Session: 73c19eec-d8f3-4cac-93d0-e9010fe32795/192.168.3.103:52031
+This session was closed for ClientClosing!

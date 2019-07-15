@@ -1,0 +1,6 @@
+﻿2019-06-27 16:54:53,679 [12] ERROR MyServer-720107 - NewPlat.MySuperSocket.MySession
+System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 49
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

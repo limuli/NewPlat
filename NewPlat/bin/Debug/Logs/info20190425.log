@@ -1,0 +1,28 @@
+﻿2019-04-25 15:56:00,801 [1] INFO  MyServer-17911681 - The server instance MyServer-17911681 has been started!
+2019-04-25 15:58:01,490 [1] INFO  MyServer-27006480 - The server instance MyServer-27006480 has been started!
+2019-04-25 15:58:21,998 [8] INFO  MyServer-27006480 - Session: 1dcce813-fdcc-43af-9d3e-1c0ec07e80cb/192.168.3.189:49706
+A new session connected!
+2019-04-25 16:04:49,355 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-25 16:05:23,639 [4] INFO  MyServer-58328727 - Session: 4786e558-90b3-4af3-a7ad-0e452b25e485/192.168.3.189:49770
+A new session connected!
+2019-04-25 16:07:19,809 [11] INFO  MyServer-58328727 - Session: 4786e558-90b3-4af3-a7ad-0e452b25e485/192.168.3.189:49770
+This session was closed for ClientClosing!
+2019-04-25 16:18:52,351 [1] INFO  MyServer-37251161 - The server instance MyServer-37251161 has been started!
+2019-04-25 16:19:46,234 [11] INFO  MyServer-37251161 - Session: d0713933-5cfc-481f-9aeb-7868afd4e525/192.168.3.189:50000
+A new session connected!
+2019-04-25 16:34:11,825 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-25 16:34:38,852 [4] INFO  MyServer-55196503 - Session: 77fe552e-911a-4ba8-bfb0-092863df8f1b/192.168.3.189:50038
+A new session connected!
+2019-04-25 16:36:03,600 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-25 16:36:08,846 [4] INFO  MyServer-55196503 - Session: 75bbb728-3c52-4c4f-a565-bc1d0d62bb52/192.168.3.189:50054
+A new session connected!
+2019-04-25 16:54:29,576 [1] INFO  MyServer-27006480 - The server instance MyServer-27006480 has been started!
+2019-04-25 16:54:31,520 [9] INFO  MyServer-27006480 - Session: 229b6bcd-f122-42d9-b8fb-d1203e9426ee/192.168.3.189:50106
+A new session connected!
+2019-04-25 22:08:49,054 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-25 22:08:51,862 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!
+2019-04-25 22:09:27,459 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-25 22:09:28,372 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!
+2019-04-25 22:09:34,554 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-25 22:09:37,680 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!
+2019-04-25 22:09:54,790 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!

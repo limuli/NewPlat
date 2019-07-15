@@ -1,0 +1,164 @@
+﻿2019-05-01 16:06:27,883 [1] INFO  MyServer-61494432 - The server instance MyServer-61494432 has been started!
+2019-05-01 16:08:15,107 [11] INFO  MyServer-61494432 - Session: 914205a4-edac-4b4d-b45d-fe658d5ff5c0/192.168.3.187:54891
+A new session connected!
+2019-05-01 16:08:15,107 [4] INFO  MyServer-61494432 - Session: 82797602-5370-4950-9165-4c900d6c594a/192.168.3.187:54889
+A new session connected!
+2019-05-01 16:08:15,108 [12] INFO  MyServer-61494432 - Session: 8638fe11-bbdf-40a0-838e-99ee66b4d158/192.168.3.187:54892
+A new session connected!
+2019-05-01 16:08:15,107 [5] INFO  MyServer-61494432 - Session: c95af561-a39a-41dd-a458-0578c6c2e083/192.168.3.187:54890
+A new session connected!
+2019-05-01 16:08:15,117 [11] INFO  MyServer-61494432 - Session: 94c9432f-4a0e-43b6-b564-b93c051241bb/192.168.3.187:54893
+A new session connected!
+2019-05-01 16:08:15,117 [12] INFO  MyServer-61494432 - Session: dd55facf-01b1-4f03-86ab-4c28957b5559/192.168.3.187:54894
+A new session connected!
+2019-05-01 16:08:15,117 [5] INFO  MyServer-61494432 - Session: 6308feb6-7aaa-42f4-be24-256f816337a0/192.168.3.187:54895
+A new session connected!
+2019-05-01 16:08:15,124 [5] INFO  MyServer-61494432 - Session: e8bfc511-2166-431a-9ff9-8946d16d9155/192.168.3.187:54897
+A new session connected!
+2019-05-01 16:08:15,124 [12] INFO  MyServer-61494432 - Session: 8dfd0f4a-c3ed-441a-aff1-9eb225eb149c/192.168.3.187:54898
+A new session connected!
+2019-05-01 16:08:15,124 [5] INFO  MyServer-61494432 - Session: 1667c534-9e6c-49d7-884a-86dc6a522671/192.168.3.187:54899
+A new session connected!
+2019-05-01 16:08:15,124 [12] INFO  MyServer-61494432 - Session: 8a596f29-1afb-4f92-9837-697ec0c45691/192.168.3.187:54900
+A new session connected!
+2019-05-01 16:08:15,124 [5] INFO  MyServer-61494432 - Session: 4f31eb3c-46b0-4629-be21-9aa473930662/192.168.3.187:54901
+A new session connected!
+2019-05-01 16:08:15,124 [12] INFO  MyServer-61494432 - Session: 51fc6b84-4bf8-41ac-a3a8-065b4a55c974/192.168.3.187:54902
+A new session connected!
+2019-05-01 16:08:15,124 [5] INFO  MyServer-61494432 - Session: e905caec-a08f-44b5-bde8-dfc077fff60f/192.168.3.187:54903
+A new session connected!
+2019-05-01 16:08:15,124 [12] INFO  MyServer-61494432 - Session: 1960644a-1334-4601-ab8c-90de5a15aac1/192.168.3.187:54904
+A new session connected!
+2019-05-01 16:08:15,124 [5] INFO  MyServer-61494432 - Session: 57c1a919-9893-46c3-af89-55d7957fffe7/192.168.3.187:54905
+A new session connected!
+2019-05-01 16:08:15,124 [12] INFO  MyServer-61494432 - Session: 740bf2bb-1f57-4bf6-8723-54aa5686f33a/192.168.3.187:54906
+A new session connected!
+2019-05-01 16:08:15,125 [5] INFO  MyServer-61494432 - Session: 289f6337-9d6f-4671-99d4-e28876be813e/192.168.3.187:54907
+A new session connected!
+2019-05-01 16:08:15,125 [12] INFO  MyServer-61494432 - Session: 59e68281-fa77-4904-a961-d8dfe315fa74/192.168.3.187:54908
+A new session connected!
+2019-05-01 16:08:15,125 [11] INFO  MyServer-61494432 - Session: e6a19c6c-afa0-416b-af55-5c06ba4278db/192.168.3.187:54896
+A new session connected!
+2019-05-01 16:08:15,980 [13] INFO  MyServer-61494432 - Session: c95af561-a39a-41dd-a458-0578c6c2e083/192.168.3.187:54890
+This session was closed for SocketError!
+2019-05-01 16:08:16,451 [15] INFO  MyServer-61494432 - Session: 914205a4-edac-4b4d-b45d-fe658d5ff5c0/192.168.3.187:54891
+This session was closed for SocketError!
+2019-05-01 16:08:17,040 [6] INFO  MyServer-61494432 - Session: 8638fe11-bbdf-40a0-838e-99ee66b4d158/192.168.3.187:54892
+This session was closed for SocketError!
+2019-05-01 16:08:19,070 [8] INFO  MyServer-61494432 - Session: 82797602-5370-4950-9165-4c900d6c594a/192.168.3.187:54889
+This session was closed for SocketError!
+2019-05-01 16:08:20,854 [6] INFO  MyServer-61494432 - Session: dd55facf-01b1-4f03-86ab-4c28957b5559/192.168.3.187:54894
+This session was closed for SocketError!
+2019-05-01 16:08:21,376 [15] INFO  MyServer-61494432 - Session: 94c9432f-4a0e-43b6-b564-b93c051241bb/192.168.3.187:54893
+This session was closed for SocketError!
+2019-05-01 16:08:23,171 [17] INFO  MyServer-61494432 - Session: 6308feb6-7aaa-42f4-be24-256f816337a0/192.168.3.187:54895
+This session was closed for SocketError!
+2019-05-01 16:08:23,695 [15] INFO  MyServer-61494432 - Session: 8dfd0f4a-c3ed-441a-aff1-9eb225eb149c/192.168.3.187:54898
+This session was closed for SocketError!
+2019-05-01 16:08:24,255 [18] INFO  MyServer-61494432 - Session: e8bfc511-2166-431a-9ff9-8946d16d9155/192.168.3.187:54897
+This session was closed for SocketError!
+2019-05-01 16:08:26,051 [20] INFO  MyServer-61494432 - Session: 1667c534-9e6c-49d7-884a-86dc6a522671/192.168.3.187:54899
+This session was closed for SocketError!
+2019-05-01 16:08:27,845 [15] INFO  MyServer-61494432 - Session: 8a596f29-1afb-4f92-9837-697ec0c45691/192.168.3.187:54900
+This session was closed for SocketError!
+2019-05-01 16:08:29,644 [21] INFO  MyServer-61494432 - Session: 4f31eb3c-46b0-4629-be21-9aa473930662/192.168.3.187:54901
+This session was closed for SocketError!
+2019-05-01 16:08:31,426 [15] INFO  MyServer-61494432 - Session: e905caec-a08f-44b5-bde8-dfc077fff60f/192.168.3.187:54903
+This session was closed for SocketError!
+2019-05-01 16:08:33,220 [22] INFO  MyServer-61494432 - Session: 51fc6b84-4bf8-41ac-a3a8-065b4a55c974/192.168.3.187:54902
+This session was closed for SocketError!
+2019-05-01 16:08:34,974 [25] INFO  MyServer-61494432 - Session: 1960644a-1334-4601-ab8c-90de5a15aac1/192.168.3.187:54904
+This session was closed for SocketError!
+2019-05-01 16:08:36,763 [22] INFO  MyServer-61494432 - Session: 289f6337-9d6f-4671-99d4-e28876be813e/192.168.3.187:54907
+This session was closed for SocketError!
+2019-05-01 16:08:38,398 [25] INFO  MyServer-61494432 - Session: 59e68281-fa77-4904-a961-d8dfe315fa74/192.168.3.187:54908
+This session was closed for SocketError!
+2019-05-01 16:08:40,257 [26] INFO  MyServer-61494432 - Session: 57c1a919-9893-46c3-af89-55d7957fffe7/192.168.3.187:54905
+This session was closed for SocketError!
+2019-05-01 16:08:42,039 [27] INFO  MyServer-61494432 - Session: 740bf2bb-1f57-4bf6-8723-54aa5686f33a/192.168.3.187:54906
+This session was closed for SocketError!
+2019-05-01 16:08:43,816 [31] INFO  MyServer-61494432 - Session: e6a19c6c-afa0-416b-af55-5c06ba4278db/192.168.3.187:54896
+This session was closed for SocketError!
+2019-05-01 16:09:41,588 [1] INFO  MyServer-61494432 - The server instance MyServer-61494432 has been stopped!
+2019-05-01 16:10:52,913 [1] INFO  MyServer-61494432 - The server instance MyServer-61494432 has been started!
+2019-05-01 16:10:59,129 [95] INFO  MyServer-61494432 - Session: c869b4bd-33ae-409c-94a8-f83a0a2e0975/192.168.3.187:55404
+A new session connected!
+2019-05-01 16:10:59,134 [105] INFO  MyServer-61494432 - Session: b58824fe-4dd4-4eb3-9682-aba281034764/192.168.3.187:55405
+A new session connected!
+2019-05-01 16:10:59,135 [105] INFO  MyServer-61494432 - Session: 3775b931-b8ca-43d2-8046-df5116d867ff/192.168.3.187:55406
+A new session connected!
+2019-05-01 16:10:59,135 [105] INFO  MyServer-61494432 - Session: 60ced325-20a0-4b5e-a1d0-f3292b66cde4/192.168.3.187:55407
+A new session connected!
+2019-05-01 16:10:59,135 [105] INFO  MyServer-61494432 - Session: dd07eda2-3a82-4cd7-9550-b6a2c52e3ddd/192.168.3.187:55408
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: 30cf4949-9d4e-4615-ae3c-3368cd403176/192.168.3.187:55409
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: fc9bfa7b-caf8-4460-89d3-e51c7c7a47cb/192.168.3.187:55410
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: 6ebc3eda-2126-4750-b782-9cc03ca82a48/192.168.3.187:55411
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: e2d6988c-cee5-4116-82ae-4296bd1e8d76/192.168.3.187:55412
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: ccdc2517-d9b5-4ab4-b946-007530d11642/192.168.3.187:55413
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: 0aa90d49-1bd1-4790-806e-676b04273161/192.168.3.187:55414
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: 451cecb8-faae-4565-b9fb-8c8d2650f55c/192.168.3.187:55415
+A new session connected!
+2019-05-01 16:10:59,136 [105] INFO  MyServer-61494432 - Session: 1c302f7d-d45e-4663-90d5-ee123991f705/192.168.3.187:55416
+A new session connected!
+2019-05-01 16:10:59,137 [105] INFO  MyServer-61494432 - Session: 8319f92e-b984-48db-9f9a-0949546b4ea1/192.168.3.187:55417
+A new session connected!
+2019-05-01 16:10:59,137 [105] INFO  MyServer-61494432 - Session: c26180b2-d447-41bc-a370-7dfa587bc38d/192.168.3.187:55418
+A new session connected!
+2019-05-01 16:10:59,137 [105] INFO  MyServer-61494432 - Session: 7a055ce1-8aca-435e-b10b-365242f03bc1/192.168.3.187:55419
+A new session connected!
+2019-05-01 16:10:59,137 [105] INFO  MyServer-61494432 - Session: de6b5f80-f6e3-4031-b645-1cab89c6262a/192.168.3.187:55420
+A new session connected!
+2019-05-01 16:10:59,137 [105] INFO  MyServer-61494432 - Session: 85d4da2e-fbe4-4233-a74e-c2816ea156a6/192.168.3.187:55421
+A new session connected!
+2019-05-01 16:10:59,137 [105] INFO  MyServer-61494432 - Session: 1e64d4ba-767b-4527-bab3-046f035c7030/192.168.3.187:55422
+A new session connected!
+2019-05-01 16:10:59,137 [105] INFO  MyServer-61494432 - Session: d27eb55f-d22f-4ddd-85c2-45295c1e6eda/192.168.3.187:55423
+A new session connected!
+2019-05-01 16:11:01,012 [104] INFO  MyServer-61494432 - Session: 3775b931-b8ca-43d2-8046-df5116d867ff/192.168.3.187:55406
+This session was closed for SocketError!
+2019-05-01 16:11:02,754 [28] INFO  MyServer-61494432 - Session: b58824fe-4dd4-4eb3-9682-aba281034764/192.168.3.187:55405
+This session was closed for SocketError!
+2019-05-01 16:11:04,577 [65] INFO  MyServer-61494432 - Session: c869b4bd-33ae-409c-94a8-f83a0a2e0975/192.168.3.187:55404
+This session was closed for SocketError!
+2019-05-01 16:11:06,374 [67] INFO  MyServer-61494432 - Session: 60ced325-20a0-4b5e-a1d0-f3292b66cde4/192.168.3.187:55407
+This session was closed for SocketError!
+2019-05-01 16:11:08,162 [104] INFO  MyServer-61494432 - Session: dd07eda2-3a82-4cd7-9550-b6a2c52e3ddd/192.168.3.187:55408
+This session was closed for SocketError!
+2019-05-01 16:11:09,970 [110] INFO  MyServer-61494432 - Session: 30cf4949-9d4e-4615-ae3c-3368cd403176/192.168.3.187:55409
+This session was closed for SocketError!
+2019-05-01 16:11:10,495 [104] INFO  MyServer-61494432 - Session: e2d6988c-cee5-4116-82ae-4296bd1e8d76/192.168.3.187:55412
+This session was closed for SocketError!
+2019-05-01 16:11:12,262 [112] INFO  MyServer-61494432 - Session: fc9bfa7b-caf8-4460-89d3-e51c7c7a47cb/192.168.3.187:55410
+This session was closed for SocketError!
+2019-05-01 16:11:14,017 [104] INFO  MyServer-61494432 - Session: 0aa90d49-1bd1-4790-806e-676b04273161/192.168.3.187:55414
+This session was closed for SocketError!
+2019-05-01 16:11:15,809 [112] INFO  MyServer-61494432 - Session: 451cecb8-faae-4565-b9fb-8c8d2650f55c/192.168.3.187:55415
+This session was closed for SocketError!
+2019-05-01 16:11:17,611 [113] INFO  MyServer-61494432 - Session: 6ebc3eda-2126-4750-b782-9cc03ca82a48/192.168.3.187:55411
+This session was closed for SocketError!
+2019-05-01 16:11:18,151 [116] INFO  MyServer-61494432 - Session: ccdc2517-d9b5-4ab4-b946-007530d11642/192.168.3.187:55413
+This session was closed for SocketError!
+2019-05-01 16:11:19,931 [119] INFO  MyServer-61494432 - Session: 1c302f7d-d45e-4663-90d5-ee123991f705/192.168.3.187:55416
+This session was closed for SocketError!
+2019-05-01 16:11:21,708 [113] INFO  MyServer-61494432 - Session: 7a055ce1-8aca-435e-b10b-365242f03bc1/192.168.3.187:55419
+This session was closed for SocketError!
+2019-05-01 16:11:23,486 [119] INFO  MyServer-61494432 - Session: 85d4da2e-fbe4-4233-a74e-c2816ea156a6/192.168.3.187:55421
+This session was closed for SocketError!
+2019-05-01 16:11:25,256 [113] INFO  MyServer-61494432 - Session: 1e64d4ba-767b-4527-bab3-046f035c7030/192.168.3.187:55422
+This session was closed for SocketError!
+2019-05-01 16:11:27,056 [120] INFO  MyServer-61494432 - Session: 8319f92e-b984-48db-9f9a-0949546b4ea1/192.168.3.187:55417
+This session was closed for SocketError!
+2019-05-01 16:11:28,847 [121] INFO  MyServer-61494432 - Session: c26180b2-d447-41bc-a370-7dfa587bc38d/192.168.3.187:55418
+This session was closed for SocketError!
+2019-05-01 16:11:30,624 [123] INFO  MyServer-61494432 - Session: de6b5f80-f6e3-4031-b645-1cab89c6262a/192.168.3.187:55420
+This session was closed for SocketError!
+2019-05-01 16:11:32,404 [127] INFO  MyServer-61494432 - Session: d27eb55f-d22f-4ddd-85c2-45295c1e6eda/192.168.3.187:55423
+This session was closed for SocketError!
+2019-05-01 16:12:54,201 [1] INFO  MyServer-61494432 - The server instance MyServer-61494432 has been stopped!

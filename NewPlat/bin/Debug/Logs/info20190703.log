@@ -1,0 +1,132 @@
+﻿2019-07-03 14:34:13,077 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-03 14:34:38,357 [10] INFO  MyServer-63642613 - Session: 9b8636fd-c1d0-4dd5-88b2-4fb2fb0ce87e/192.168.3.103:54017
+A new session connected!
+2019-07-03 14:34:40,203 [8] INFO  MyServer-63642613 - Session: 9b8636fd-c1d0-4dd5-88b2-4fb2fb0ce87e/192.168.3.103:54017
+This session was closed for ApplicationError!
+2019-07-03 14:37:25,748 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-03 14:37:42,897 [11] INFO  MyServer-63642613 - Session: 3c53843c-cff7-4ae9-8837-cdc2f038a208/192.168.3.103:54140
+A new session connected!
+2019-07-03 14:37:44,552 [12] INFO  MyServer-63642613 - Session: 3c53843c-cff7-4ae9-8837-cdc2f038a208/192.168.3.103:54140
+This session was closed for ApplicationError!
+2019-07-03 14:37:55,982 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been stopped!
+2019-07-03 14:40:24,538 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-03 14:40:30,630 [10] INFO  MyServer-63642613 - Session: b3729067-559f-46af-9511-bcf8749da23e/192.168.3.103:54278
+A new session connected!
+2019-07-03 14:40:32,034 [12] INFO  MyServer-63642613 - Session: b3729067-559f-46af-9511-bcf8749da23e/192.168.3.103:54278
+This session was closed for ApplicationError!
+2019-07-03 14:43:37,587 [7] INFO  MyServer-63642613 - Session: 9db8da33-62ab-41f5-9c85-fd48dae8ae33/192.168.3.103:54348
+A new session connected!
+2019-07-03 14:43:39,182 [6] INFO  MyServer-63642613 - Session: 9db8da33-62ab-41f5-9c85-fd48dae8ae33/192.168.3.103:54348
+This session was closed for ApplicationError!
+2019-07-03 14:45:02,476 [7] INFO  MyServer-63642613 - Session: ad4101c0-b942-4689-96cf-edaf5a13f381/192.168.3.103:54393
+A new session connected!
+2019-07-03 14:45:04,001 [20] INFO  MyServer-63642613 - Session: ad4101c0-b942-4689-96cf-edaf5a13f381/192.168.3.103:54393
+This session was closed for ApplicationError!
+2019-07-03 14:45:14,237 [7] INFO  MyServer-63642613 - Session: 8efaa747-c126-40ac-a6ee-83a947dd77cc/192.168.3.103:54407
+A new session connected!
+2019-07-03 14:45:15,499 [29] INFO  MyServer-63642613 - Session: 8efaa747-c126-40ac-a6ee-83a947dd77cc/192.168.3.103:54407
+This session was closed for ApplicationError!
+2019-07-03 14:48:42,270 [39] INFO  MyServer-63642613 - Session: e444da14-b363-4d38-9511-b5e321ed3f62/192.168.3.103:54454
+A new session connected!
+2019-07-03 14:48:43,756 [20] INFO  MyServer-63642613 - Session: e444da14-b363-4d38-9511-b5e321ed3f62/192.168.3.103:54454
+This session was closed for ApplicationError!
+2019-07-03 14:53:31,339 [10] INFO  MyServer-63642613 - Session: 4069fe06-a586-49c0-82f6-e7d1ed093530/192.168.3.103:54504
+A new session connected!
+2019-07-03 14:53:32,841 [28] INFO  MyServer-63642613 - Session: 4069fe06-a586-49c0-82f6-e7d1ed093530/192.168.3.103:54504
+This session was closed for ApplicationError!
+2019-07-03 14:57:56,813 [25] INFO  MyServer-63642613 - Session: a597225a-e7cf-47e7-9a63-9fe18f3e716e/192.168.3.103:54552
+A new session connected!
+2019-07-03 14:57:58,303 [11] INFO  MyServer-63642613 - Session: a597225a-e7cf-47e7-9a63-9fe18f3e716e/192.168.3.103:54552
+This session was closed for ApplicationError!
+2019-07-03 15:08:52,871 [26] INFO  MyServer-63642613 - Session: 9a630d08-2d1b-46cf-8e0e-de85db1228c5/192.168.3.103:54653
+A new session connected!
+2019-07-03 15:09:22,032 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-03 15:09:37,264 [11] INFO  MyServer-63642613 - Session: 3533e297-fe43-4dea-a13f-903d6767f403/192.168.3.103:54689
+A new session connected!
+2019-07-03 15:09:38,620 [6] INFO  MyServer-63642613 - Session: 3533e297-fe43-4dea-a13f-903d6767f403/192.168.3.103:54689
+This session was closed for ApplicationError!
+2019-07-03 15:10:40,134 [9] INFO  MyServer-63642613 - Session: 071a8656-4365-4ed8-8230-71d0bba3ab65/192.168.3.103:54724
+A new session connected!
+2019-07-03 15:10:41,649 [5] INFO  MyServer-63642613 - Session: 071a8656-4365-4ed8-8230-71d0bba3ab65/192.168.3.103:54724
+This session was closed for ApplicationError!
+2019-07-03 16:07:55,760 [19] INFO  MyServer-63642613 - Session: 01a35a66-3886-409d-a458-b1f5acc5913f/192.168.3.103:55608
+A new session connected!
+2019-07-03 16:07:57,320 [6] INFO  MyServer-63642613 - Session: 01a35a66-3886-409d-a458-b1f5acc5913f/192.168.3.103:55608
+This session was closed for ApplicationError!
+2019-07-03 18:30:04,569 [11] INFO  MyServer-63642613 - Session: ffb2732b-b232-4494-8d90-73e2c81187aa/192.168.3.103:56410
+A new session connected!
+2019-07-03 18:30:06,376 [23] INFO  MyServer-63642613 - Session: ffb2732b-b232-4494-8d90-73e2c81187aa/192.168.3.103:56410
+This session was closed for ApplicationError!
+2019-07-03 18:36:09,363 [25] INFO  MyServer-63642613 - Session: dd913014-c58e-4e11-afd8-a55bb5a99d26/192.168.3.103:56466
+A new session connected!
+2019-07-03 18:36:10,876 [6] INFO  MyServer-63642613 - Session: dd913014-c58e-4e11-afd8-a55bb5a99d26/192.168.3.103:56466
+This session was closed for ApplicationError!
+2019-07-03 18:53:55,991 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-03 18:54:09,113 [10] INFO  MyServer-63642613 - Session: 831f78eb-897b-4adb-9814-057de7ab0b87/192.168.3.103:56582
+A new session connected!
+2019-07-03 18:54:11,737 [12] INFO  MyServer-63642613 - Session: 831f78eb-897b-4adb-9814-057de7ab0b87/192.168.3.103:56582
+This session was closed for ApplicationError!
+2019-07-03 18:59:36,874 [7] INFO  MyServer-63642613 - Session: cc292b34-e1d2-4223-a694-7683768f56fb/192.168.3.103:56636
+A new session connected!
+2019-07-03 18:59:38,492 [6] INFO  MyServer-63642613 - Session: cc292b34-e1d2-4223-a694-7683768f56fb/192.168.3.103:56636
+This session was closed for ApplicationError!
+2019-07-03 19:02:30,135 [11] INFO  MyServer-63642613 - Session: ef509e8c-906b-4bde-b949-484dffe95200/192.168.3.103:56692
+A new session connected!
+2019-07-03 19:02:31,633 [6] INFO  MyServer-63642613 - Session: ef509e8c-906b-4bde-b949-484dffe95200/192.168.3.103:56692
+This session was closed for ApplicationError!
+2019-07-03 19:04:23,631 [37] INFO  MyServer-63642613 - Session: dd81dfaf-3da8-4198-9823-13c85299c425/192.168.3.103:56730
+A new session connected!
+2019-07-03 19:18:37,046 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-03 19:18:45,508 [10] INFO  MyServer-63642613 - Session: 24ab41f2-e9f0-46fe-bc52-7c8ccc870039/192.168.3.103:57240
+A new session connected!
+2019-07-03 19:18:46,847 [6] INFO  MyServer-63642613 - Session: 24ab41f2-e9f0-46fe-bc52-7c8ccc870039/192.168.3.103:57240
+This session was closed for ApplicationError!
+2019-07-03 19:19:03,281 [10] INFO  MyServer-63642613 - Session: 327162af-64f5-4758-b155-d83f42dc4f82/192.168.3.103:57256
+A new session connected!
+2019-07-03 19:19:04,548 [18] INFO  MyServer-63642613 - Session: 327162af-64f5-4758-b155-d83f42dc4f82/192.168.3.103:57256
+This session was closed for ApplicationError!
+2019-07-03 19:35:13,662 [8] INFO  MyServer-63642613 - Session: 9d983809-a5a0-4d3d-a899-20a0894f4c90/192.168.3.103:57653
+A new session connected!
+2019-07-03 19:35:15,139 [6] INFO  MyServer-63642613 - Session: 9d983809-a5a0-4d3d-a899-20a0894f4c90/192.168.3.103:57653
+This session was closed for ApplicationError!
+2019-07-03 19:35:15,224 [8] INFO  MyServer-63642613 - Session: 79511bc2-6817-4956-a342-38405e7de428/192.168.3.103:57664
+A new session connected!
+2019-07-03 19:35:15,560 [8] INFO  MyServer-63642613 - Session: caa4f38b-0e0a-4e0c-ade0-f8f1a20919e5/192.168.3.103:57665
+A new session connected!
+2019-07-03 19:35:15,758 [8] INFO  MyServer-63642613 - Session: 39aef849-8021-4544-ba0b-3eb25aec2d71/192.168.3.103:57666
+A new session connected!
+2019-07-03 19:35:15,946 [8] INFO  MyServer-63642613 - Session: 8cbf1405-e343-4c21-90fa-9c6b8ff3c4bc/192.168.3.103:57668
+A new session connected!
+2019-07-03 19:35:16,117 [8] INFO  MyServer-63642613 - Session: 1e559020-dc9d-448f-b46f-f643bf0184fd/192.168.3.103:57669
+A new session connected!
+2019-07-03 19:35:16,304 [8] INFO  MyServer-63642613 - Session: eebbb444-7811-49c5-ae87-aaa5be522340/192.168.3.103:57670
+A new session connected!
+2019-07-03 19:35:19,176 [21] INFO  MyServer-63642613 - Session: 79511bc2-6817-4956-a342-38405e7de428/192.168.3.103:57664
+This session was closed for ApplicationError!
+2019-07-03 19:35:20,431 [22] INFO  MyServer-63642613 - Session: caa4f38b-0e0a-4e0c-ade0-f8f1a20919e5/192.168.3.103:57665
+This session was closed for ApplicationError!
+2019-07-03 19:35:21,961 [21] INFO  MyServer-63642613 - Session: 39aef849-8021-4544-ba0b-3eb25aec2d71/192.168.3.103:57666
+This session was closed for ApplicationError!
+2019-07-03 19:35:22,990 [22] INFO  MyServer-63642613 - Session: 1e559020-dc9d-448f-b46f-f643bf0184fd/192.168.3.103:57669
+This session was closed for ApplicationError!
+2019-07-03 19:35:24,265 [23] INFO  MyServer-63642613 - Session: 8cbf1405-e343-4c21-90fa-9c6b8ff3c4bc/192.168.3.103:57668
+This session was closed for ApplicationError!
+2019-07-03 19:35:25,524 [24] INFO  MyServer-63642613 - Session: eebbb444-7811-49c5-ae87-aaa5be522340/192.168.3.103:57670
+This session was closed for ApplicationError!
+2019-07-03 19:35:31,168 [8] INFO  MyServer-63642613 - Session: 8601fee3-9acd-444f-b821-c506008e6281/192.168.3.103:57713
+A new session connected!
+2019-07-03 19:35:42,197 [8] INFO  MyServer-63642613 - Session: 40580651-998f-4651-9212-a473a56e4649/192.168.3.103:57732
+A new session connected!
+2019-07-03 19:35:42,889 [8] INFO  MyServer-63642613 - Session: 70a00b64-9980-41d8-a3c7-e65c26a36adc/192.168.3.103:57734
+A new session connected!
+2019-07-03 19:35:46,687 [47] INFO  MyServer-63642613 - Session: 8601fee3-9acd-444f-b821-c506008e6281/192.168.3.103:57713
+This session was closed for ApplicationError!
+2019-07-03 19:35:47,939 [48] INFO  MyServer-63642613 - Session: 40580651-998f-4651-9212-a473a56e4649/192.168.3.103:57732
+This session was closed for ApplicationError!
+2019-07-03 19:35:49,698 [49] INFO  MyServer-63642613 - Session: 70a00b64-9980-41d8-a3c7-e65c26a36adc/192.168.3.103:57734
+This session was closed for ApplicationError!
+2019-07-03 19:52:10,916 [60] INFO  MyServer-63642613 - Session: e377587f-a5ba-44ac-b4a4-bd02299e9d2f/192.168.3.103:57946
+A new session connected!
+2019-07-03 19:52:12,451 [6] INFO  MyServer-63642613 - Session: e377587f-a5ba-44ac-b4a4-bd02299e9d2f/192.168.3.103:57946
+This session was closed for ApplicationError!
+2019-07-03 20:31:46,258 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been stopped!

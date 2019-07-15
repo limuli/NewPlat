@@ -1,0 +1,246 @@
+﻿2019-04-26 10:10:51,213 [9] ERROR MyServer-55196503 - NewPlat.MySuperSocket.MySession
+System.Data.Odbc.OdbcException (0x80131937): ERROR [23000] [MySQL][ODBC 8.0(w) Driver][mysqld-8.0.11]Duplicate entry '000000000003' for key 'PRIMARY'
+   在 System.Data.Odbc.OdbcConnection.HandleError(OdbcHandle hrHandle, RetCode retcode)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   在 System.Data.Odbc.OdbcCommand.ExecuteNonQuery()
+   在 NewPlat.MyDataSetTableAdapters.Dt_failTableAdapter.InsertMeterFail(String MeterId, String MeterType, String MeterComState, String MeterIcState, String MeterChuState, String MeterZhongState, String MeterState, String MeterTest, String MeterRand_num, String Meteriport, Nullable`1 MeterTime) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 13662
+   在 NewPlat.MyCommand.MyCommand01.xiugaifai(MeterInfo tempmeter, MySession session, MyRequestInfo info) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 284
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 90
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 10:10:54,449 [14] ERROR MyServer-55196503 - NewPlat.MySuperSocket.MySession
+System.Data.Odbc.OdbcException (0x80131937): ERROR [23000] [MySQL][ODBC 8.0(w) Driver][mysqld-8.0.11]Duplicate entry '000000000003' for key 'PRIMARY'
+   在 System.Data.Odbc.OdbcConnection.HandleError(OdbcHandle hrHandle, RetCode retcode)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   在 System.Data.Odbc.OdbcCommand.ExecuteNonQuery()
+   在 NewPlat.MyDataSetTableAdapters.Dt_failTableAdapter.InsertMeterFail(String MeterId, String MeterType, String MeterComState, String MeterIcState, String MeterChuState, String MeterZhongState, String MeterState, String MeterTest, String MeterRand_num, String Meteriport, Nullable`1 MeterTime) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 13662
+   在 NewPlat.MyCommand.MyCommand01.xiugaifai(MeterInfo tempmeter, MySession session, MyRequestInfo info) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 284
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 90
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 10:21:30,496 [13] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.BLL.DataHelper.Dt2Ob(DataTable dt) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 249
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 49
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 10:21:30,500 [12] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.BLL.DataHelper.Dt2Ob(DataTable dt) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 249
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 49
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 10:21:33,239 [4] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 100
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 19:16:16,828 [7] ERROR MyServer-66824994 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 100
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 19:30:11,386 [14] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.Data.Odbc.OdbcException (0x80131937): ERROR [23000] [MySQL][ODBC 8.0(w) Driver][mysqld-8.0.11]Duplicate entry '000000000002' for key 'PRIMARY'
+   在 System.Data.Odbc.OdbcConnection.HandleError(OdbcHandle hrHandle, RetCode retcode)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   在 System.Data.Odbc.OdbcCommand.ExecuteNonQuery()
+   在 NewPlat.MyDataSetTableAdapters.Dt_failTableAdapter.InsertMeterFail(String MeterId, String MeterType, String MeterComState, String MeterIcState, String MeterChuState, String MeterZhongState, String MeterState, String MeterTest, String MeterRand_num, String Meteriport, Nullable`1 MeterTime) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 13662
+   在 NewPlat.MyCommand.MyCommand01.xiugaifai(MeterInfo tempmeter, MySession session, MyRequestInfo info) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 284
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 90
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:10:35,160 [21] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.Data.Odbc.OdbcException (0x80131937): ERROR [23000] [MySQL][ODBC 8.0(w) Driver][mysqld-8.0.11]Duplicate entry '000000000008' for key 'PRIMARY'
+   在 System.Data.Odbc.OdbcConnection.HandleError(OdbcHandle hrHandle, RetCode retcode)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   在 System.Data.Odbc.OdbcCommand.ExecuteNonQuery()
+   在 NewPlat.MyDataSetTableAdapters.Dt_failTableAdapter.InsertMeterFail(String MeterId, String MeterType, String MeterComState, String MeterIcState, String MeterChuState, String MeterZhongState, String MeterState, String MeterTest, String MeterRand_num, String Meteriport, Nullable`1 MeterTime) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 13662
+   在 NewPlat.MyCommand.MyCommand01.xiugaifai(MeterInfo tempmeter, MySession session, MyRequestInfo info) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 284
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 90
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:10:39,754 [22] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.Data.Odbc.OdbcException (0x80131937): ERROR [23000] [MySQL][ODBC 8.0(w) Driver][mysqld-8.0.11]Duplicate entry '000000000011' for key 'PRIMARY'
+   在 System.Data.Odbc.OdbcConnection.HandleError(OdbcHandle hrHandle, RetCode retcode)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   在 System.Data.Odbc.OdbcCommand.ExecuteNonQuery()
+   在 NewPlat.MyDataSetTableAdapters.Dt_failTableAdapter.InsertMeterFail(String MeterId, String MeterType, String MeterComState, String MeterIcState, String MeterChuState, String MeterZhongState, String MeterState, String MeterTest, String MeterRand_num, String Meteriport, Nullable`1 MeterTime) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 13662
+   在 NewPlat.MyCommand.MyCommand01.xiugaifai(MeterInfo tempmeter, MySession session, MyRequestInfo info) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 284
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 90
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:31:08,666 [14] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_failTableAdapter.InsertMeterFail(String MeterId, String MeterType, String MeterComState, String MeterIcState, String MeterChuState, String MeterZhongState, String MeterState, String MeterTest, String MeterRand_num, String Meteriport, Nullable`1 MeterTime) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 13658
+   在 NewPlat.MyCommand.MyCommand01.xiugaifai(MeterInfo tempmeter, MySession session, MyRequestInfo info) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 285
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 91
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:31:10,885 [13] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.Odbc.OdbcConnection.Open()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.DeleteMeter(String MeterId) 位置 E:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 11885
+   在 NewPlat.MyCommand.MyCommand01.xiugaifai(MeterInfo tempmeter, MySession session, MyRequestInfo info) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 296
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 91
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:32:48,463 [12] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:32:52,386 [5] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 101
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:32:52,391 [15] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:48:44,837 [9] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:48:47,336 [15] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:48:47,338 [13] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:48:54,959 [13] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:48:54,966 [16] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 101
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:48:58,969 [17] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:56:44,592 [9] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:56:45,768 [13] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:56:47,295 [16] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:56:50,712 [18] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:56:52,841 [18] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 20:56:59,150 [21] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 228
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 21:02:32,969 [16] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 101
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:30,683 [15] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:33,547 [5] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:35,001 [15] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:35,944 [15] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:38,092 [10] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:40,366 [9] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:41,886 [16] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:43,402 [17] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:44,818 [18] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:46,372 [19] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:51,384 [20] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:53,018 [8] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:53,964 [8] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:55,262 [12] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:56,897 [22] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-26 22:02:58,093 [23] ERROR MyServer-27006480 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+   在 System.Threading.Monitor.ReliableEnter(Object obj, Boolean& lockTaken)
+   在 System.Threading.Monitor.Enter(Object obj, Boolean& lockTaken)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 40
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

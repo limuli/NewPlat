@@ -1,0 +1,243 @@
+﻿2019-05-21 10:26:06,208 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-05-21 10:26:12,285 [4] INFO  MyServer-58328727 - Session: f73ed8bd-3f46-403d-a76c-49ea93345c2e/192.168.3.103:54473
+A new session connected!
+2019-05-21 10:26:12,285 [10] INFO  MyServer-58328727 - Session: 68b5260f-49df-489e-88e3-91201980c385/192.168.3.103:54474
+A new session connected!
+2019-05-21 10:26:12,285 [11] INFO  MyServer-58328727 - Session: 12345369-bc90-4129-8fd3-7aaf18ba58b2/192.168.3.103:54475
+A new session connected!
+2019-05-21 10:26:12,285 [12] INFO  MyServer-58328727 - Session: b5626245-3fad-4854-9ff3-47d00e362251/192.168.3.103:54476
+A new session connected!
+2019-05-21 10:26:12,300 [12] INFO  MyServer-58328727 - Session: 40aea144-b521-4475-a2c8-3fe0faa1c106/192.168.3.103:54477
+A new session connected!
+2019-05-21 10:26:12,300 [10] INFO  MyServer-58328727 - Session: 5fe1127b-c3c1-4fbd-bdcf-f8315aa58da2/192.168.3.103:54478
+A new session connected!
+2019-05-21 10:26:12,300 [11] INFO  MyServer-58328727 - Session: d3f79b37-38e0-4a76-ae1d-3bcae7f5d6ce/192.168.3.103:54479
+A new session connected!
+2019-05-21 10:26:12,300 [4] INFO  MyServer-58328727 - Session: de5b4d14-de4a-491a-968c-d2af509a1fe6/192.168.3.103:54480
+A new session connected!
+2019-05-21 10:26:12,303 [12] INFO  MyServer-58328727 - Session: 54467c35-7577-4385-a284-d45dc3bebf1d/192.168.3.103:54481
+A new session connected!
+2019-05-21 10:26:12,303 [11] INFO  MyServer-58328727 - Session: 19fd5db7-5270-465e-9a0e-468841ca8f37/192.168.3.103:54482
+A new session connected!
+2019-05-21 10:26:12,303 [12] INFO  MyServer-58328727 - Session: c7ca67a7-122f-4d7b-8a93-f006308fd94e/192.168.3.103:54483
+A new session connected!
+2019-05-21 10:26:12,303 [11] INFO  MyServer-58328727 - Session: 468c3ea9-b638-427f-a963-3b649fac585b/192.168.3.103:54484
+A new session connected!
+2019-05-21 10:26:12,303 [12] INFO  MyServer-58328727 - Session: 245fcb50-927b-4d5f-86d2-5e13a1aad477/192.168.3.103:54485
+A new session connected!
+2019-05-21 10:26:12,303 [4] INFO  MyServer-58328727 - Session: 809a3a1f-63fd-4cb9-bb70-0650065842e3/192.168.3.103:54486
+A new session connected!
+2019-05-21 10:26:12,303 [11] INFO  MyServer-58328727 - Session: 3e688d3a-ae9e-4703-b03d-57829b38a486/192.168.3.103:54487
+A new session connected!
+2019-05-21 10:26:12,303 [4] INFO  MyServer-58328727 - Session: b2a6fd2c-4a9f-488d-bcd8-93bb4571406e/192.168.3.103:54488
+A new session connected!
+2019-05-21 10:26:12,303 [11] INFO  MyServer-58328727 - Session: d7a2371d-4fb1-45de-833c-d153206ce669/192.168.3.103:54489
+A new session connected!
+2019-05-21 10:26:12,303 [4] INFO  MyServer-58328727 - Session: 848d1f07-c40b-49c7-b1fd-59547778ca50/192.168.3.103:54490
+A new session connected!
+2019-05-21 10:26:12,304 [11] INFO  MyServer-58328727 - Session: 4f5542f6-169b-41b7-a464-6e9e08856bb9/192.168.3.103:54491
+A new session connected!
+2019-05-21 10:26:12,304 [10] INFO  MyServer-58328727 - Session: 80d71ace-ac6b-4e41-bdb7-a6c6d43bcb85/192.168.3.103:54492
+A new session connected!
+2019-05-21 10:26:12,676 [10] INFO  MyServer-58328727 - Session: 9066b910-87ff-461f-9afd-09d6bcd743ba/192.168.3.103:54497
+A new session connected!
+2019-05-21 10:26:12,676 [4] INFO  MyServer-58328727 - Session: 061239a3-e358-4b88-9bc8-1b301a1f1dc0/192.168.3.103:54498
+A new session connected!
+2019-05-21 10:26:12,676 [4] INFO  MyServer-58328727 - Session: 283afecc-f579-427d-a06d-20495b6b615f/192.168.3.103:54499
+A new session connected!
+2019-05-21 10:26:12,676 [4] INFO  MyServer-58328727 - Session: 6d840c60-3bad-4463-b7cc-6c2955fd19d8/192.168.3.103:54500
+A new session connected!
+2019-05-21 10:26:12,676 [4] INFO  MyServer-58328727 - Session: ed0fabfe-3750-48dd-bb31-a2d0b72d2b8a/192.168.3.103:54501
+A new session connected!
+2019-05-21 10:26:12,676 [4] INFO  MyServer-58328727 - Session: 2547a552-cb84-4a5a-8124-7b7cdb0ad4ec/192.168.3.103:54502
+A new session connected!
+2019-05-21 10:26:12,677 [4] INFO  MyServer-58328727 - Session: e02568e8-52fd-425a-ad23-a413cafa50f0/192.168.3.103:54503
+A new session connected!
+2019-05-21 10:26:12,677 [10] INFO  MyServer-58328727 - Session: 79036dfc-cde8-4b5d-87d9-4d690672279d/192.168.3.103:54504
+A new session connected!
+2019-05-21 10:26:12,677 [10] INFO  MyServer-58328727 - Session: 1f3b9582-2100-4370-a69e-e843b2316ae4/192.168.3.103:54505
+A new session connected!
+2019-05-21 10:26:12,677 [10] INFO  MyServer-58328727 - Session: 6ef803bf-57af-4013-953d-46225eeb9e69/192.168.3.103:54506
+A new session connected!
+2019-05-21 10:26:12,677 [10] INFO  MyServer-58328727 - Session: 74e5ab8f-b727-460e-bb44-8c735e3811f3/192.168.3.103:54507
+A new session connected!
+2019-05-21 10:26:12,677 [10] INFO  MyServer-58328727 - Session: aa93896e-e731-4e13-93a0-e07f50bccbb2/192.168.3.103:54508
+A new session connected!
+2019-05-21 10:26:12,678 [10] INFO  MyServer-58328727 - Session: bd9c01d9-3acf-4355-907e-679e2a53e1d8/192.168.3.103:54509
+A new session connected!
+2019-05-21 10:26:12,678 [10] INFO  MyServer-58328727 - Session: d6dab24b-9169-4add-9a05-f1138ffdaa42/192.168.3.103:54510
+A new session connected!
+2019-05-21 10:26:12,678 [10] INFO  MyServer-58328727 - Session: b043358b-7d55-48b2-b304-671c07e2a818/192.168.3.103:54511
+A new session connected!
+2019-05-21 10:26:12,678 [10] INFO  MyServer-58328727 - Session: e90b8b33-13e3-4418-8789-03079592029b/192.168.3.103:54512
+A new session connected!
+2019-05-21 10:26:12,678 [10] INFO  MyServer-58328727 - Session: 31f228fd-2def-4893-9fbc-ed966f6ee9e4/192.168.3.103:54513
+A new session connected!
+2019-05-21 10:26:12,678 [10] INFO  MyServer-58328727 - Session: 41bb5987-559d-4dc8-a2b9-3334e81c5677/192.168.3.103:54514
+A new session connected!
+2019-05-21 10:26:12,679 [10] INFO  MyServer-58328727 - Session: 0bd9d9b1-3af5-4838-acb3-e43df6dacd9a/192.168.3.103:54515
+A new session connected!
+2019-05-21 10:26:12,679 [10] INFO  MyServer-58328727 - Session: 4249c250-b66a-448e-98c3-0a414051a8e7/192.168.3.103:54516
+A new session connected!
+2019-05-21 10:26:13,692 [9] INFO  MyServer-58328727 - Session: 68b5260f-49df-489e-88e3-91201980c385/192.168.3.103:54474
+This session was closed for SocketError!
+2019-05-21 10:26:15,045 [9] INFO  MyServer-58328727 - Session: 54467c35-7577-4385-a284-d45dc3bebf1d/192.168.3.103:54481
+This session was closed for SocketError!
+2019-05-21 10:26:15,736 [13] INFO  MyServer-58328727 - Session: 19fd5db7-5270-465e-9a0e-468841ca8f37/192.168.3.103:54482
+This session was closed for SocketError!
+2019-05-21 10:26:16,666 [9] INFO  MyServer-58328727 - Session: 245fcb50-927b-4d5f-86d2-5e13a1aad477/192.168.3.103:54485
+This session was closed for SocketError!
+2019-05-21 10:26:17,562 [14] INFO  MyServer-58328727 - Session: de5b4d14-de4a-491a-968c-d2af509a1fe6/192.168.3.103:54480
+This session was closed for SocketError!
+2019-05-21 10:26:18,713 [19] INFO  MyServer-58328727 - Session: b5626245-3fad-4854-9ff3-47d00e362251/192.168.3.103:54476
+This session was closed for ClientClosing!
+2019-05-21 10:26:18,970 [17] INFO  MyServer-58328727 - Session: 468c3ea9-b638-427f-a963-3b649fac585b/192.168.3.103:54484
+This session was closed for SocketError!
+2019-05-21 10:26:19,896 [19] INFO  MyServer-58328727 - Session: 809a3a1f-63fd-4cb9-bb70-0650065842e3/192.168.3.103:54486
+This session was closed for SocketError!
+2019-05-21 10:26:20,712 [21] INFO  MyServer-58328727 - Session: 12345369-bc90-4129-8fd3-7aaf18ba58b2/192.168.3.103:54475
+This session was closed for ClientClosing!
+2019-05-21 10:26:31,712 [32] INFO  MyServer-58328727 - Session: f73ed8bd-3f46-403d-a76c-49ea93345c2e/192.168.3.103:54473
+This session was closed for ClientClosing!
+2019-05-21 10:26:32,627 [32] INFO  MyServer-58328727 - Session: 3e688d3a-ae9e-4703-b03d-57829b38a486/192.168.3.103:54487
+This session was closed for SocketError!
+2019-05-21 10:26:35,213 [35] INFO  MyServer-58328727 - Session: d3f79b37-38e0-4a76-ae1d-3bcae7f5d6ce/192.168.3.103:54479
+This session was closed for ClientClosing!
+2019-05-21 10:26:38,212 [38] INFO  MyServer-58328727 - Session: 40aea144-b521-4475-a2c8-3fe0faa1c106/192.168.3.103:54477
+This session was closed for ClientClosing!
+2019-05-21 10:26:47,901 [10] INFO  MyServer-58328727 - Session: b2a6fd2c-4a9f-488d-bcd8-93bb4571406e/192.168.3.103:54488
+This session was closed for SocketError!
+2019-05-21 10:26:48,941 [10] INFO  MyServer-58328727 - Session: d7a2371d-4fb1-45de-833c-d153206ce669/192.168.3.103:54489
+This session was closed for SocketError!
+2019-05-21 10:26:49,653 [5] INFO  MyServer-58328727 - Session: 848d1f07-c40b-49c7-b1fd-59547778ca50/192.168.3.103:54490
+This session was closed for SocketError!
+2019-05-21 10:26:50,342 [10] INFO  MyServer-58328727 - Session: 4f5542f6-169b-41b7-a464-6e9e08856bb9/192.168.3.103:54491
+This session was closed for SocketError!
+2019-05-21 10:27:02,712 [56] INFO  MyServer-58328727 - Session: 5fe1127b-c3c1-4fbd-bdcf-f8315aa58da2/192.168.3.103:54478
+This session was closed for ClientClosing!
+2019-05-21 10:27:03,713 [57] INFO  MyServer-58328727 - Session: c7ca67a7-122f-4d7b-8a93-f006308fd94e/192.168.3.103:54483
+This session was closed for ClientClosing!
+2019-05-21 10:27:34,218 [48] INFO  MyServer-58328727 - Session: 80d71ace-ac6b-4e41-bdb7-a6c6d43bcb85/192.168.3.103:54492
+This session was closed for ClientClosing!
+2019-05-21 10:27:37,218 [51] INFO  MyServer-58328727 - Session: 9066b910-87ff-461f-9afd-09d6bcd743ba/192.168.3.103:54497
+This session was closed for ClientClosing!
+2019-05-21 10:27:39,216 [53] INFO  MyServer-58328727 - Session: 283afecc-f579-427d-a06d-20495b6b615f/192.168.3.103:54499
+This session was closed for ClientClosing!
+2019-05-21 10:27:41,218 [18] INFO  MyServer-58328727 - Session: 6d840c60-3bad-4463-b7cc-6c2955fd19d8/192.168.3.103:54500
+This session was closed for ClientClosing!
+2019-05-21 10:27:42,715 [85] INFO  MyServer-58328727 - Session: e02568e8-52fd-425a-ad23-a413cafa50f0/192.168.3.103:54503
+This session was closed for ClientClosing!
+2019-05-21 10:27:43,718 [55] INFO  MyServer-58328727 - Session: 6ef803bf-57af-4013-953d-46225eeb9e69/192.168.3.103:54506
+This session was closed for ClientClosing!
+2019-05-21 10:27:44,718 [21] INFO  MyServer-58328727 - Session: aa93896e-e731-4e13-93a0-e07f50bccbb2/192.168.3.103:54508
+This session was closed for ClientClosing!
+2019-05-21 10:27:46,720 [23] INFO  MyServer-58328727 - Session: b043358b-7d55-48b2-b304-671c07e2a818/192.168.3.103:54511
+This session was closed for ClientClosing!
+2019-05-21 10:27:47,722 [24] INFO  MyServer-58328727 - Session: 31f228fd-2def-4893-9fbc-ed966f6ee9e4/192.168.3.103:54513
+This session was closed for ClientClosing!
+2019-05-21 10:27:48,714 [91] INFO  MyServer-58328727 - Session: 2547a552-cb84-4a5a-8124-7b7cdb0ad4ec/192.168.3.103:54502
+This session was closed for ClientClosing!
+2019-05-21 10:27:48,719 [25] INFO  MyServer-58328727 - Session: 1f3b9582-2100-4370-a69e-e843b2316ae4/192.168.3.103:54505
+This session was closed for ClientClosing!
+2019-05-21 10:27:49,721 [26] INFO  MyServer-58328727 - Session: 74e5ab8f-b727-460e-bb44-8c735e3811f3/192.168.3.103:54507
+This session was closed for ClientClosing!
+2019-05-21 10:27:50,714 [93] INFO  MyServer-58328727 - Session: d6dab24b-9169-4add-9a05-f1138ffdaa42/192.168.3.103:54510
+This session was closed for ClientClosing!
+2019-05-21 10:27:51,713 [94] INFO  MyServer-58328727 - Session: e90b8b33-13e3-4418-8789-03079592029b/192.168.3.103:54512
+This session was closed for ClientClosing!
+2019-05-21 10:27:53,714 [96] INFO  MyServer-58328727 - Session: 41bb5987-559d-4dc8-a2b9-3334e81c5677/192.168.3.103:54514
+This session was closed for ClientClosing!
+2019-05-21 10:27:55,713 [98] INFO  MyServer-58328727 - Session: 4249c250-b66a-448e-98c3-0a414051a8e7/192.168.3.103:54516
+This session was closed for ClientClosing!
+2019-05-21 10:27:57,713 [101] INFO  MyServer-58328727 - Session: 061239a3-e358-4b88-9bc8-1b301a1f1dc0/192.168.3.103:54498
+This session was closed for ClientClosing!
+2019-05-21 10:27:59,356 [27] INFO  MyServer-58328727 - Session: ed0fabfe-3750-48dd-bb31-a2d0b72d2b8a/192.168.3.103:54501
+This session was closed for ClientClosing!
+2019-05-21 10:28:00,218 [69] INFO  MyServer-58328727 - Session: 79036dfc-cde8-4b5d-87d9-4d690672279d/192.168.3.103:54504
+This session was closed for ClientClosing!
+2019-05-21 10:28:00,835 [28] INFO  MyServer-58328727 - Session: bd9c01d9-3acf-4355-907e-679e2a53e1d8/192.168.3.103:54509
+This session was closed for ClientClosing!
+2019-05-21 10:28:02,212 [104] INFO  MyServer-58328727 - Session: 0bd9d9b1-3af5-4838-acb3-e43df6dacd9a/192.168.3.103:54515
+This session was closed for ClientClosing!
+2019-05-21 15:49:16,571 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-05-21 15:49:19,601 [10] INFO  MyServer-58328727 - Session: 9f26a536-6f2a-407b-b3fe-22847b20ad7a/192.168.3.103:54920
+A new session connected!
+2019-05-21 15:49:19,601 [4] INFO  MyServer-58328727 - Session: e9405889-8bd3-4c83-98b8-b026da94c10f/192.168.3.103:54919
+A new session connected!
+2019-05-21 15:49:19,601 [6] INFO  MyServer-58328727 - Session: 4e8ac367-7893-4640-8794-f8b5b582d3c6/192.168.3.103:54918
+A new session connected!
+2019-05-21 15:49:19,601 [11] INFO  MyServer-58328727 - Session: e6c3c8d4-c254-4160-a673-973f85e60892/192.168.3.103:54921
+A new session connected!
+2019-05-21 15:49:19,674 [11] INFO  MyServer-58328727 - Session: 2e4c1a60-08dd-42e3-9561-65d4d5740158/192.168.3.103:54922
+A new session connected!
+2019-05-21 15:49:19,674 [6] INFO  MyServer-58328727 - Session: e17781f7-f5b9-4186-98c1-88d117b86713/192.168.3.103:54923
+A new session connected!
+2019-05-21 15:49:19,674 [10] INFO  MyServer-58328727 - Session: 310d7a45-141c-4c2e-9c98-1b61784c1f42/192.168.3.103:54924
+A new session connected!
+2019-05-21 15:49:19,674 [6] INFO  MyServer-58328727 - Session: 874d280b-a485-4fe4-8e39-9558fdb6d13e/192.168.3.103:54925
+A new session connected!
+2019-05-21 15:49:19,674 [11] INFO  MyServer-58328727 - Session: 0fee08e4-4407-4979-816a-f02db7409091/192.168.3.103:54926
+A new session connected!
+2019-05-21 15:49:19,674 [6] INFO  MyServer-58328727 - Session: 974198d0-a2b0-4430-b2ac-ef707f58e61a/192.168.3.103:54927
+A new session connected!
+2019-05-21 15:49:19,674 [4] INFO  MyServer-58328727 - Session: 7a0b5732-63e2-4ca0-9fd3-5611c8f9e448/192.168.3.103:54928
+A new session connected!
+2019-05-21 15:49:19,676 [6] INFO  MyServer-58328727 - Session: dd1ef54f-5af3-4050-bab3-53fb0779e059/192.168.3.103:54929
+A new session connected!
+2019-05-21 15:49:19,676 [4] INFO  MyServer-58328727 - Session: f6715f54-b1f9-44bf-af5a-408491a08efc/192.168.3.103:54930
+A new session connected!
+2019-05-21 15:49:19,676 [10] INFO  MyServer-58328727 - Session: 99946630-6e82-4e89-a19f-db378cadf13f/192.168.3.103:54931
+A new session connected!
+2019-05-21 15:49:19,676 [4] INFO  MyServer-58328727 - Session: e468c505-cdaa-4bbb-9f4c-f63042097a72/192.168.3.103:54932
+A new session connected!
+2019-05-21 15:49:19,676 [11] INFO  MyServer-58328727 - Session: fcb20b4c-5df1-4a5f-9941-de146332c141/192.168.3.103:54933
+A new session connected!
+2019-05-21 15:49:19,676 [10] INFO  MyServer-58328727 - Session: 0b3ca166-b54f-45a2-ad05-67b9922344c2/192.168.3.103:54934
+A new session connected!
+2019-05-21 15:49:19,676 [11] INFO  MyServer-58328727 - Session: dde30b23-b4d8-4c77-8292-8fbfa14def16/192.168.3.103:54935
+A new session connected!
+2019-05-21 15:49:19,676 [10] INFO  MyServer-58328727 - Session: 77cbf83e-e15d-4a0e-8fce-c20b82aad022/192.168.3.103:54936
+A new session connected!
+2019-05-21 15:49:19,676 [11] INFO  MyServer-58328727 - Session: ec6a410c-1adf-4706-8312-4f6f6c47011b/192.168.3.103:54937
+A new session connected!
+2019-05-21 15:49:21,119 [7] INFO  MyServer-58328727 - Session: e9405889-8bd3-4c83-98b8-b026da94c10f/192.168.3.103:54919
+This session was closed for SocketError!
+2019-05-21 15:49:22,342 [7] INFO  MyServer-58328727 - Session: 0fee08e4-4407-4979-816a-f02db7409091/192.168.3.103:54926
+This session was closed for SocketError!
+2019-05-21 15:49:23,480 [13] INFO  MyServer-58328727 - Session: 874d280b-a485-4fe4-8e39-9558fdb6d13e/192.168.3.103:54925
+This session was closed for SocketError!
+2019-05-21 15:49:24,628 [12] INFO  MyServer-58328727 - Session: 974198d0-a2b0-4430-b2ac-ef707f58e61a/192.168.3.103:54927
+This session was closed for SocketError!
+2019-05-21 15:49:25,291 [13] INFO  MyServer-58328727 - Session: dd1ef54f-5af3-4050-bab3-53fb0779e059/192.168.3.103:54929
+This session was closed for SocketError!
+2019-05-21 15:49:26,027 [7] INFO  MyServer-58328727 - Session: 99946630-6e82-4e89-a19f-db378cadf13f/192.168.3.103:54931
+This session was closed for SocketError!
+2019-05-21 15:49:26,706 [14] INFO  MyServer-58328727 - Session: f6715f54-b1f9-44bf-af5a-408491a08efc/192.168.3.103:54930
+This session was closed for SocketError!
+2019-05-21 15:49:27,819 [7] INFO  MyServer-58328727 - Session: dde30b23-b4d8-4c77-8292-8fbfa14def16/192.168.3.103:54935
+This session was closed for SocketError!
+2019-05-21 15:49:28,640 [12] INFO  MyServer-58328727 - Session: fcb20b4c-5df1-4a5f-9941-de146332c141/192.168.3.103:54933
+This session was closed for SocketError!
+2019-05-21 15:49:28,641 [12] INFO  MyServer-58328727 - Session: 9f26a536-6f2a-407b-b3fe-22847b20ad7a/192.168.3.103:54920
+This session was closed for ClientClosing!
+2019-05-21 15:49:29,354 [13] INFO  MyServer-58328727 - Session: 0b3ca166-b54f-45a2-ad05-67b9922344c2/192.168.3.103:54934
+This session was closed for SocketError!
+2019-05-21 15:49:30,182 [16] INFO  MyServer-58328727 - Session: e468c505-cdaa-4bbb-9f4c-f63042097a72/192.168.3.103:54932
+This session was closed for SocketError!
+2019-05-21 15:49:30,872 [17] INFO  MyServer-58328727 - Session: 77cbf83e-e15d-4a0e-8fce-c20b82aad022/192.168.3.103:54936
+This session was closed for SocketError!
+2019-05-21 15:49:33,572 [23] INFO  MyServer-58328727 - Session: 4e8ac367-7893-4640-8794-f8b5b582d3c6/192.168.3.103:54918
+This session was closed for ClientClosing!
+2019-05-21 15:49:35,570 [25] INFO  MyServer-58328727 - Session: 310d7a45-141c-4c2e-9c98-1b61784c1f42/192.168.3.103:54924
+This session was closed for ClientClosing!
+2019-05-21 15:49:37,571 [27] INFO  MyServer-58328727 - Session: e6c3c8d4-c254-4160-a673-973f85e60892/192.168.3.103:54921
+This session was closed for ClientClosing!
+2019-05-21 15:49:47,571 [38] INFO  MyServer-58328727 - Session: 2e4c1a60-08dd-42e3-9561-65d4d5740158/192.168.3.103:54922
+This session was closed for ClientClosing!
+2019-05-21 15:49:49,573 [40] INFO  MyServer-58328727 - Session: 7a0b5732-63e2-4ca0-9fd3-5611c8f9e448/192.168.3.103:54928
+This session was closed for ClientClosing!
+2019-05-21 15:50:09,056 [15] INFO  MyServer-58328727 - Session: e17781f7-f5b9-4186-98c1-88d117b86713/192.168.3.103:54923
+This session was closed for ClientClosing!
+2019-05-21 15:50:12,078 [20] INFO  MyServer-58328727 - Session: ec6a410c-1adf-4706-8312-4f6f6c47011b/192.168.3.103:54937
+This session was closed for ClientClosing!
+2019-05-21 16:11:18,153 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!

@@ -1,0 +1,190 @@
+﻿2019-04-12 14:52:42,898 [1] DEBUG MyServer-58328727 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,935 [1] DEBUG MyServer-58328727 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,935 [1] DEBUG MyServer-58328727 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,936 [1] DEBUG MyServer-58328727 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,936 [1] DEBUG MyServer-58328727 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,936 [1] DEBUG MyServer-58328727 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,936 [1] DEBUG MyServer-58328727 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,936 [1] DEBUG MyServer-58328727 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:42,937 [1] DEBUG MyServer-58328727 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:52:43,062 [1] DEBUG MyServer-58328727 - Listener (0.0.0.0:3001) was started
+2019-04-12 14:56:53,196 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,230 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,231 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,232 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,233 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,233 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,234 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,235 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,235 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:56:53,272 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 14:58:03,718 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,744 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,744 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,745 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,770 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,770 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,771 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,771 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,771 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 14:58:03,808 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:03:34,064 [1] DEBUG MyServer-58328727 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,090 [1] DEBUG MyServer-58328727 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,090 [1] DEBUG MyServer-58328727 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,090 [1] DEBUG MyServer-58328727 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,090 [1] DEBUG MyServer-58328727 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,091 [1] DEBUG MyServer-58328727 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,091 [1] DEBUG MyServer-58328727 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,091 [1] DEBUG MyServer-58328727 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,092 [1] DEBUG MyServer-58328727 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:03:34,138 [1] DEBUG MyServer-58328727 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:15:43,667 [1] DEBUG MyServer-58328727 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,690 [1] DEBUG MyServer-58328727 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,690 [1] DEBUG MyServer-58328727 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,690 [1] DEBUG MyServer-58328727 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,691 [1] DEBUG MyServer-58328727 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,691 [1] DEBUG MyServer-58328727 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,691 [1] DEBUG MyServer-58328727 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,691 [1] DEBUG MyServer-58328727 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,692 [1] DEBUG MyServer-58328727 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:15:43,732 [1] DEBUG MyServer-58328727 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:17:46,492 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,516 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,516 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,517 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,517 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,517 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,517 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,518 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,518 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:17:46,553 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:30:35,325 [1] DEBUG MyServer-58328727 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,358 [1] DEBUG MyServer-58328727 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,359 [1] DEBUG MyServer-58328727 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,359 [1] DEBUG MyServer-58328727 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,360 [1] DEBUG MyServer-58328727 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,360 [1] DEBUG MyServer-58328727 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,360 [1] DEBUG MyServer-58328727 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,361 [1] DEBUG MyServer-58328727 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,361 [1] DEBUG MyServer-58328727 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:30:35,406 [1] DEBUG MyServer-58328727 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:38:22,611 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,636 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,636 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,637 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,637 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,637 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,638 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,639 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,640 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:38:22,679 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:41:05,079 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,102 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,102 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,102 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,103 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,103 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,103 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,103 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,104 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:41:05,139 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:44:22,336 [1] DEBUG MyServer-46729429 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,357 [1] DEBUG MyServer-46729429 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,358 [1] DEBUG MyServer-46729429 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,358 [1] DEBUG MyServer-46729429 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,358 [1] DEBUG MyServer-46729429 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,359 [1] DEBUG MyServer-46729429 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,359 [1] DEBUG MyServer-46729429 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,359 [1] DEBUG MyServer-46729429 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,359 [1] DEBUG MyServer-46729429 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:44:22,397 [1] DEBUG MyServer-46729429 - Listener (0.0.0.0:3001) was started
+2019-04-12 15:57:48,040 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,063 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,064 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,064 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,064 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,064 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,065 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,065 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,065 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 15:57:48,108 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 16:01:27,931 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,955 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,955 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,955 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,956 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,956 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,956 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,957 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,957 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:01:27,992 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 16:02:56,643 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,670 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,670 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,670 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,671 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,671 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,671 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,671 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,672 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:02:56,707 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 16:09:39,183 [1] DEBUG MyServer-58328727 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,205 [1] DEBUG MyServer-58328727 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,205 [1] DEBUG MyServer-58328727 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,206 [1] DEBUG MyServer-58328727 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,206 [1] DEBUG MyServer-58328727 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,206 [1] DEBUG MyServer-58328727 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,206 [1] DEBUG MyServer-58328727 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,207 [1] DEBUG MyServer-58328727 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,207 [1] DEBUG MyServer-58328727 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:09:39,249 [1] DEBUG MyServer-58328727 - Listener (0.0.0.0:3001) was started
+2019-04-12 16:34:52,050 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,073 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,074 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,074 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,074 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,074 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,074 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,075 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,075 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:34:52,172 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 16:44:21,888 [1] DEBUG MyServer-58328727 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,913 [1] DEBUG MyServer-58328727 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,913 [1] DEBUG MyServer-58328727 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,913 [1] DEBUG MyServer-58328727 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,913 [1] DEBUG MyServer-58328727 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,914 [1] DEBUG MyServer-58328727 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,914 [1] DEBUG MyServer-58328727 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,914 [1] DEBUG MyServer-58328727 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,914 [1] DEBUG MyServer-58328727 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 16:44:21,963 [1] DEBUG MyServer-58328727 - Listener (0.0.0.0:3001) was started
+2019-04-12 19:23:06,112 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,157 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,157 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,157 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,158 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,158 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,158 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,159 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,159 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:23:06,256 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 19:41:23,157 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,184 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,185 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,185 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,186 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,186 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,186 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,187 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,187 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:41:23,229 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started
+2019-04-12 19:45:56,146 [1] DEBUG MyServer-55196503 - The command 11(NewPlat.MyCommand.MyCommand11, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,168 [1] DEBUG MyServer-55196503 - The command 01(NewPlat.MyCommand.MyCommand01, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,168 [1] DEBUG MyServer-55196503 - The command 22(NewPlat.MyCommand.MyCommand22, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,169 [1] DEBUG MyServer-55196503 - The command 33(NewPlat.MyCommand.MyCommand33, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,169 [1] DEBUG MyServer-55196503 - The command 44(NewPlat.MyCommand.MyCommand44, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,169 [1] DEBUG MyServer-55196503 - The command 51(NewPlat.MyCommand.MyCommand51, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,169 [1] DEBUG MyServer-55196503 - The command 81(NewPlat.MyCommand.MyCommand81, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,170 [1] DEBUG MyServer-55196503 - The command 8E(NewPlat.MyCommand.MyCommand8E, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,170 [1] DEBUG MyServer-55196503 - The command 00(NewPlat.MyCommand.Test00, NewPlat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null) has been discovered
+2019-04-12 19:45:56,215 [1] DEBUG MyServer-55196503 - Listener (0.0.0.0:3001) was started

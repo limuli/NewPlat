@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<params>
+  <param>
+    <name>
+      strMainHostIP
+    </name>
+    <value>
+      10.89.41.214
+    </value>
+  </param>
+  <param>
+    <name>
+      strMainHostPort
+    </name>
+    <value>
+      3001
+    </value>
+  </param>
+</params>

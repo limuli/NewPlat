@@ -1,0 +1,18 @@
+﻿2019-04-12 15:16:18,992 [12] ERROR MyServer-58328727 - NewPlat.MySuperSocket.MySession
+System.ArgumentNullException: 值不能为 null。
+参数名: String
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Int32.Parse(String s)
+   在 NewPlat.BLL.DownCommond.GenerateCore81(String ip, String port, Boolean boolDomain, String strContent, String Rand_num) 位置 F:\VS\NewPlat\NewPlat\BLL\DownCommond.cs:行号 70
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 F:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 101
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-04-12 16:14:28,388 [11] ERROR MyServer-58328727 - NewPlat.MySuperSocket.MySession
+System.Data.Odbc.OdbcException (0x80131937): ERROR [HY000] [MySQL][ODBC 8.0(w) Driver][mysqld-8.0.11]Data too long for column 'Meteriport' at row 1
+   在 System.Data.Odbc.OdbcConnection.HandleError(OdbcHandle hrHandle, RetCode retcode)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader, Object[] methodArguments, SQL_API odbcApiMethod)
+   在 System.Data.Odbc.OdbcCommand.ExecuteReaderObject(CommandBehavior behavior, String method, Boolean needReader)
+   在 System.Data.Odbc.OdbcCommand.ExecuteNonQuery()
+   在 NewPlat.MyDataSetTableAdapters.Dt_MeterInfoTableAdapter.UpdateMeterTest(String MeterRand_num, String Meteriport, Nullable`1 MeterTime, String MeterTest, String Original_MeterId) 位置 F:\VS\NewPlat\NewPlat\MyDataSet.Designer.cs:行号 11556
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 F:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 176
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

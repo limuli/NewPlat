@@ -1,0 +1,48 @@
+﻿2019-03-09 17:07:31,855 [1] INFO  MyServer-40041277 - The server instance MyServer-40041277 has been started!
+2019-03-09 17:07:58,551 [5] INFO  MyServer-40041277 - Session: d82f0dac-6a2b-467d-8830-305e9110d4d0/10.89.41.214:11794
+A new session connected!
+2019-03-09 19:11:15,191 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-03-09 19:12:42,788 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-03-09 19:13:43,391 [8] INFO  MyServer-720107 - Session: 7df62d54-8b52-44fa-a239-1aec8e2df3f6/10.89.41.214:15935
+A new session connected!
+2019-03-09 19:14:56,454 [11] INFO  MyServer-720107 - Session: 7df62d54-8b52-44fa-a239-1aec8e2df3f6/10.89.41.214:15935
+This session was closed for ClientClosing!
+2019-03-09 19:18:49,927 [1] INFO  MyServer-41560081 - The server instance MyServer-41560081 has been started!
+2019-03-09 19:18:55,452 [7] INFO  MyServer-41560081 - Session: 9c921eb3-9dc6-4bc5-a0a8-2445dab1d9e2/10.89.41.214:16068
+A new session connected!
+2019-03-09 19:23:36,273 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-03-09 20:03:39,962 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-03-09 20:18:48,909 [1] INFO  MyServer-40041277 - The server instance MyServer-40041277 has been started!
+2019-03-09 20:18:51,000 [6] INFO  MyServer-40041277 - Session: 8ada2082-86bf-4a42-9605-bb5d9c29b998/10.89.41.214:18637
+A new session connected!
+2019-03-09 20:20:12,175 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-03-09 20:20:18,470 [5] INFO  MyServer-720107 - Session: 4c5a4ab7-c901-4bc8-b8ed-7b44d28d15e5/10.89.41.214:18709
+A new session connected!
+2019-03-09 20:20:33,750 [13] INFO  MyServer-720107 - Session: 4c5a4ab7-c901-4bc8-b8ed-7b44d28d15e5/10.89.41.214:18709
+This session was closed for ClientClosing!
+2019-03-09 20:23:44,212 [1] INFO  MyServer-40041277 - The server instance MyServer-40041277 has been started!
+2019-03-09 20:23:48,239 [7] INFO  MyServer-40041277 - Session: 7ef2f356-e1b8-485a-acac-6c502b7e2b70/10.89.41.214:18854
+A new session connected!
+2019-03-09 20:24:11,791 [13] INFO  MyServer-40041277 - Session: 7ef2f356-e1b8-485a-acac-6c502b7e2b70/10.89.41.214:18854
+This session was closed for ClientClosing!
+2019-03-09 20:26:30,994 [1] INFO  MyServer-40041277 - The server instance MyServer-40041277 has been started!
+2019-03-09 20:26:34,895 [7] INFO  MyServer-40041277 - Session: 92139dbd-036b-459e-bf9f-80f9d3142b25/10.89.41.214:18977
+A new session connected!
+2019-03-09 20:29:59,452 [1] INFO  MyServer-40041277 - The server instance MyServer-40041277 has been started!
+2019-03-09 20:30:08,039 [6] INFO  MyServer-40041277 - Session: d2e80f3d-c8d0-42ef-af1f-bf3dac22ba3e/10.89.41.214:19099
+A new session connected!
+2019-03-09 20:31:00,858 [3] INFO  MyServer-40041277 - Session: d2e80f3d-c8d0-42ef-af1f-bf3dac22ba3e/10.89.41.214:19099
+This session was closed for ClientClosing!
+2019-03-09 20:33:20,314 [1] INFO  MyServer-40041277 - The server instance MyServer-40041277 has been started!
+2019-03-09 20:33:23,695 [6] INFO  MyServer-40041277 - Session: 7d6159e5-6410-4660-b453-625bca2fc52f/10.89.41.214:19182
+A new session connected!
+2019-03-09 20:33:35,082 [14] INFO  MyServer-40041277 - Session: 7d6159e5-6410-4660-b453-625bca2fc52f/10.89.41.214:19182
+This session was closed for ClientClosing!
+2019-03-09 20:35:39,651 [1] INFO  MyServer-41560081 - The server instance MyServer-41560081 has been started!
+2019-03-09 20:35:56,112 [6] INFO  MyServer-41560081 - Session: f7dd019d-7b8f-4e30-9bb3-ac3f6c04353c/10.89.41.214:19288
+A new session connected!
+2019-03-09 20:37:53,526 [1] INFO  MyServer-41560081 - The server instance MyServer-41560081 has been started!
+2019-03-09 20:37:56,104 [5] INFO  MyServer-41560081 - Session: 9aea5345-9e7e-4f4c-95ea-a765004c82aa/10.89.41.214:19367
+A new session connected!
+2019-03-09 20:38:08,271 [14] INFO  MyServer-41560081 - Session: 9aea5345-9e7e-4f4c-95ea-a765004c82aa/10.89.41.214:19367
+This session was closed for ClientClosing!

@@ -1,0 +1,120 @@
+﻿2019-07-04 14:05:49,113 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 14:12:32,603 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 14:13:54,123 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 14:14:23,383 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 14:14:53,103 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 14:16:40,283 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 14:18:13,413 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 14:21:23,243 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:37:22,881 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:41:36,192 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:42:55,972 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:44:46,992 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:50:06,102 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:53:11,092 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:54:20,142 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:55:33,022 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:56:39,612 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 20:57:33,852 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 21:14:18,053 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-07-04 21:24:51,103 - System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 192.168.3.103:3009
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 283
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

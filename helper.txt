@@ -1,0 +1,9 @@
+IList<PlatInfo> platInfos 检测平台信息数组
+IList<MeterInfo> meterInfos 检测表信息数组
+
+datagridview设置不可更改
+
+在mycommand中处理逻辑
+利用contains（要在meterinfo中重写meterid）,判断对象是否存在
+
+2019/1/14 01命令中判断表是否在检测列表中

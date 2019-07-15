@@ -1,0 +1,32 @@
+﻿2019-05-17 15:17:21,082 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-05-17 15:17:32,281 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been stopped!
+2019-05-17 22:04:52,360 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-05-17 22:05:25,920 [10] INFO  MyServer-58328727 - Session: 5db41e87-708e-4927-858f-0cc2e9593c36/192.168.3.178:44010
+A new session connected!
+2019-05-17 22:06:09,602 [9] INFO  MyServer-58328727 - Session: 5db41e87-708e-4927-858f-0cc2e9593c36/192.168.3.178:44010
+This session was closed for ClientClosing!
+2019-05-17 22:06:15,326 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!
+2019-05-17 22:07:38,891 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-05-17 22:08:01,234 [18] INFO  MyServer-58328727 - Session: 4039b7e3-2f07-45ff-97a6-380d8867e7f1/192.168.3.178:44011
+A new session connected!
+2019-05-17 22:09:40,187 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!
+2019-05-17 22:09:40,191 [23] INFO  MyServer-58328727 - Session: 4039b7e3-2f07-45ff-97a6-380d8867e7f1/192.168.3.178:44011
+This session was closed for ServerShutdown!
+2019-05-17 22:13:51,850 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been started!
+2019-05-17 22:13:54,252 [5] INFO  MyServer-720107 - Session: 74fb43ed-4a2a-4811-9757-9ec6ff62e541/192.168.3.178:44013
+A new session connected!
+2019-05-17 22:14:34,053 [7] INFO  MyServer-720107 - Session: 74fb43ed-4a2a-4811-9757-9ec6ff62e541/192.168.3.178:44013
+This session was closed for ClientClosing!
+2019-05-17 22:15:08,777 [1] INFO  MyServer-720107 - The server instance MyServer-720107 has been stopped!
+2019-05-17 22:20:02,907 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-05-17 22:21:32,106 [4] INFO  MyServer-58328727 - Session: fc323157-098b-4609-b5ee-178f8c0dbf39/192.168.3.178:44016
+A new session connected!
+2019-05-17 22:22:11,861 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!
+2019-05-17 22:22:11,866 [17] INFO  MyServer-58328727 - Session: fc323157-098b-4609-b5ee-178f8c0dbf39/192.168.3.178:44016
+This session was closed for ServerShutdown!
+2019-05-17 22:25:43,575 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-05-17 22:26:19,243 [4] INFO  MyServer-58328727 - Session: dcd161c7-92de-4208-bcde-1949fa2ff180/192.168.3.178:44025
+A new session connected!
+2019-05-17 22:26:31,778 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been stopped!
+2019-05-17 22:26:31,781 [6] INFO  MyServer-58328727 - Session: dcd161c7-92de-4208-bcde-1949fa2ff180/192.168.3.178:44025
+This session was closed for ServerShutdown!

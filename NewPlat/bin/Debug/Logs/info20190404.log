@@ -1,0 +1,26 @@
+﻿2019-04-04 19:15:47,903 [1] INFO  MyServer-13869071 - The server instance MyServer-13869071 has been started!
+2019-04-04 19:15:51,207 [4] INFO  MyServer-13869071 - Session: 774c99bf-0a39-4ef6-89e7-7316b9b681a5/192.168.3.176:19244
+A new session connected!
+2019-04-04 19:18:19,397 [1] INFO  MyServer-57712780 - The server instance MyServer-57712780 has been started!
+2019-04-04 19:18:22,648 [7] INFO  MyServer-57712780 - Session: d7f91c3b-7861-4145-b5d0-b43c2b4cac57/192.168.3.176:19393
+A new session connected!
+2019-04-04 19:21:04,228 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-04-04 19:21:08,220 [4] INFO  MyServer-66824994 - Session: a79b2543-9000-48f9-819a-cd3a316744ec/192.168.3.176:19548
+A new session connected!
+2019-04-04 19:26:19,658 [1] INFO  MyServer-16578980 - The server instance MyServer-16578980 has been started!
+2019-04-04 19:26:24,145 [4] INFO  MyServer-16578980 - Session: 7bc876e2-7082-41e5-9289-3fd60b9999b7/192.168.3.176:19773
+A new session connected!
+2019-04-04 19:30:17,967 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-04-04 19:30:24,593 [4] INFO  MyServer-66824994 - Session: e2b64645-b186-4277-b3f3-296cfb9bc9bf/192.168.3.176:19982
+A new session connected!
+2019-04-04 19:31:19,423 [6] INFO  MyServer-66824994 - Session: e2b64645-b186-4277-b3f3-296cfb9bc9bf/192.168.3.176:19982
+This session was closed for ClientClosing!
+2019-04-04 20:12:34,523 [1] INFO  MyServer-64554036 - The server instance MyServer-64554036 has been started!
+2019-04-04 20:12:53,262 [4] INFO  MyServer-64554036 - Session: 6bf4a4c6-ae45-4735-8eab-f27cc17a9343/192.168.3.176:22272
+A new session connected!
+2019-04-04 20:13:18,862 [5] INFO  MyServer-64554036 - Session: 6bf4a4c6-ae45-4735-8eab-f27cc17a9343/192.168.3.176:22272
+This session was closed for ClientClosing!
+2019-04-04 20:13:38,774 [4] INFO  MyServer-64554036 - Session: 55367b83-55c9-4af7-b0bd-6aaafeb6c46b/192.168.3.176:22309
+A new session connected!
+2019-04-04 20:14:04,606 [5] INFO  MyServer-64554036 - Session: 55367b83-55c9-4af7-b0bd-6aaafeb6c46b/192.168.3.176:22309
+This session was closed for ClientClosing!

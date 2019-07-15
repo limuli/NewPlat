@@ -1,0 +1,28 @@
+﻿2019-04-03 15:00:06,970 [1] INFO  MyServer-13869071 - The server instance MyServer-13869071 has been started!
+2019-04-03 15:00:14,021 [7] INFO  MyServer-13869071 - Session: 69c691fe-51c2-4a6f-9c26-9e52b8a0057f/192.168.3.176:11300
+A new session connected!
+2019-04-03 15:59:11,315 [1] INFO  MyServer-13869071 - The server instance MyServer-13869071 has been started!
+2019-04-03 15:59:16,642 [4] INFO  MyServer-13869071 - Session: ef6df8a8-4f5c-4348-a78a-bd9d5d58e8e9/192.168.3.176:12795
+A new session connected!
+2019-04-03 16:00:42,474 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-04-03 16:00:46,324 [4] INFO  MyServer-66824994 - Session: ddc2f3dd-0895-4397-85eb-16d0b9ec7e6d/192.168.3.176:12832
+A new session connected!
+2019-04-03 16:04:26,049 [1] INFO  MyServer-13869071 - The server instance MyServer-13869071 has been started!
+2019-04-03 16:04:34,182 [4] INFO  MyServer-13869071 - Session: e91c179c-23d8-45d6-80ae-9548949f709a/192.168.3.176:12973
+A new session connected!
+2019-04-03 16:14:06,567 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-04-03 16:14:15,570 [7] INFO  MyServer-66824994 - Session: b3ee1199-cd75-4494-8a4c-9614d30e41a5/192.168.3.176:13289
+A new session connected!
+2019-04-03 16:17:36,157 [1] INFO  MyServer-64554036 - The server instance MyServer-64554036 has been started!
+2019-04-03 16:17:40,565 [4] INFO  MyServer-64554036 - Session: 5a80242b-66bf-4e5a-8b2e-8f7fbb964488/192.168.3.176:13415
+A new session connected!
+2019-04-03 16:18:57,219 [1] INFO  MyServer-64554036 - The server instance MyServer-64554036 has been started!
+2019-04-03 16:19:01,760 [4] INFO  MyServer-64554036 - Session: db97c98e-dd20-465e-b147-9718d2eabc3c/192.168.3.176:13482
+A new session connected!
+2019-04-03 19:49:14,966 [1] INFO  MyServer-49652976 - The server instance MyServer-49652976 has been started!
+2019-04-03 20:32:52,656 [1] INFO  MyServer-61494432 - The server instance MyServer-61494432 has been started!
+2019-04-03 20:32:56,118 [8] INFO  MyServer-61494432 - Session: 448da593-792d-4602-aeed-eab8acfc63ec/192.168.3.176:15510
+A new session connected!
+2019-04-03 20:34:42,192 [1] INFO  MyServer-64554036 - The server instance MyServer-64554036 has been started!
+2019-04-03 20:34:46,959 [4] INFO  MyServer-64554036 - Session: d02613cd-9872-4bb1-acfd-ecada70e4ee1/192.168.3.176:15595
+A new session connected!

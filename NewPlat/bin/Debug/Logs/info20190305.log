@@ -1,0 +1,19 @@
+﻿2019-03-05 10:41:42,693 [1] INFO  MyServer-6480969 - The server instance MyServer-6480969 has been started!
+2019-03-05 10:42:19,458 [4] INFO  MyServer-6480969 - Session: 92c14120-26a4-44ed-bef2-e02082de151d/192.168.3.176:5825
+A new session connected!
+2019-03-05 10:48:50,205 [1] INFO  MyServer-6480969 - The server instance MyServer-6480969 has been started!
+2019-03-05 10:48:52,530 [6] INFO  MyServer-6480969 - Session: d2c11d3d-c6f9-47c4-90d9-28dfae2796cc/192.168.3.176:6071
+A new session connected!
+2019-03-05 10:50:17,722 [3] INFO  MyServer-6480969 - Session: d2c11d3d-c6f9-47c4-90d9-28dfae2796cc/192.168.3.176:6071
+This session was closed for ClientClosing!
+2019-03-05 10:50:19,075 [6] INFO  MyServer-6480969 - Session: 56d2a44b-ab9e-4f66-a82b-6fd6c9718587/192.168.3.176:6125
+A new session connected!
+2019-03-05 10:55:29,141 [1] INFO  MyServer-6480969 - The server instance MyServer-6480969 has been started!
+2019-03-05 10:55:33,616 [6] INFO  MyServer-6480969 - Session: 2e79703f-8b5b-4796-bc6d-498b0d508616/192.168.3.176:6329
+A new session connected!
+2019-03-05 11:03:46,899 [1] INFO  MyServer-6480969 - The server instance MyServer-6480969 has been started!
+2019-03-05 11:03:51,500 [6] INFO  MyServer-6480969 - Session: 090e588a-7d89-4bb8-bdb5-852742e73a77/192.168.3.176:6706
+A new session connected!
+2019-03-05 11:07:59,455 [1] INFO  MyServer-6480969 - The server instance MyServer-6480969 has been started!
+2019-03-05 11:08:03,440 [6] INFO  MyServer-6480969 - Session: 502a69b7-f5a2-488f-a47b-f8f7e12a041f/192.168.3.176:6841
+A new session connected!

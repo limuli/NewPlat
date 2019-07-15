@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<platstore>
+     <plat id="1">
+       <ip>212.64.12.60</ip>
+       <ic>空闲</ic>
+       <chujian>空闲</chujian>
+       <command>空闲</command>
+       <zhongjian>空闲</zhongjian>
+    </plat>
+  <plat id="2">
+    <ip>212.64.12.60</ip>
+    <ic>空闲</ic>
+    <chujian>空闲</chujian>
+    <command>空闲</command>
+    <zhongjian>空闲</zhongjian>
+  </plat>
+  <plat id="3">
+    <ip>212.64.12.60</ip>
+    <ic>空闲</ic>
+    <chujian>空闲</chujian>
+    <command>空闲</command>
+    <zhongjian>空闲</zhongjian>
+  </plat>
+  <plat id="4">
+    <ip>212.64.12.60</ip>
+    <ic>空闲</ic>
+    <chujian>空闲</chujian>
+    <command>空闲</command>
+    <zhongjian>空闲</zhongjian>
+  </plat>
+  <plat id="5">
+    <ip>212.64.12.60</ip>
+    <ic>空闲</ic>
+    <chujian>空闲</chujian>
+    <command>空闲</command>
+    <zhongjian>空闲</zhongjian>
+  </plat>
+</platstore>

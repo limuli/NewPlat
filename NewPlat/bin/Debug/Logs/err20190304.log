@@ -1,0 +1,9 @@
+﻿2019-03-04 16:52:49,714 [4] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.ArgumentOutOfRangeException: 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 NewPlat.MyCommand.MyCommand01.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 F:\VS\NewPlat\NewPlat\MyCommand\MyCommand01.cs:行号 83
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(IAppSession session, TRequestInfo requestInfo)
+   在 SuperSocket.SocketBase.AppSession`2.SuperSocket.SocketBase.IAppSession.ProcessRequest(Byte[] readBuffer, Int32 offset, Int32 length, Boolean toBeCopied)

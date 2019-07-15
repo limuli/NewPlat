@@ -1,0 +1,5 @@
+﻿2019-02-23 13:25:52,092 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-23 13:25:56,801 [5] INFO  MyServer-66824994 - Session: 773a5870-ee2c-4c06-8658-63e493a735a6/10.89.41.78:14102
+A new session connected!
+2019-02-23 13:26:18,848 [7] INFO  MyServer-66824994 - Session: 773a5870-ee2c-4c06-8658-63e493a735a6/10.89.41.78:14102
+This session was closed for ClientClosing!

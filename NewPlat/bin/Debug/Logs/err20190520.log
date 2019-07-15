@@ -1,0 +1,58 @@
+﻿2019-05-20 19:02:28,938 [51] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:31,654 [90] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:33,617 [117] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:37,012 [89] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:41,850 [88] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:43,567 [87] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:47,729 [86] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:52,172 [85] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:54,104 [84] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:02:58,079 [83] ERROR MyServer-6480969 - NewPlat.MySuperSocket.MySession
+System.Exception: 索引超出了数组界限。
+   在 NewPlat.BLL.DataHelper.SplitArray(Byte[] Source, Int32 StartIndex, Int32 Length) 位置 E:\VS\NewPlat\NewPlat\BLL\DataHelper.cs:行号 211
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 69
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:12:19,257 [36] ERROR MyServer-10923418 - NewPlat.MySuperSocket.MySession
+System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 118
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-05-20 19:12:31,734 [79] ERROR MyServer-10923418 - NewPlat.MySuperSocket.MySession
+System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 NewPlat.MyCommand.MyCommand81.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat\NewPlat\MyCommand\MyCommand81.cs:行号 118
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)

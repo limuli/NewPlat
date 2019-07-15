@@ -1,0 +1,8 @@
+﻿2019-07-09 19:43:37,042 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-09 19:44:21,082 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-09 20:06:49,199 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been started!
+2019-07-09 20:06:54,053 [5] INFO  MyServer-63642613 - Session: 17d136e8-af98-4f01-8ace-bf7f454c0898/192.168.3.146:58655
+A new session connected!
+2019-07-09 20:06:54,639 [10] INFO  MyServer-63642613 - Session: 17d136e8-af98-4f01-8ace-bf7f454c0898/192.168.3.146:58655
+This session was closed for ClientClosing!
+2019-07-09 20:07:16,158 [1] INFO  MyServer-63642613 - The server instance MyServer-63642613 has been stopped!

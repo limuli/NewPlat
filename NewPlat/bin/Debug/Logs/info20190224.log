@@ -1,0 +1,48 @@
+﻿2019-02-24 08:55:39,657 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 09:43:22,772 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 09:43:25,190 [6] INFO  MyServer-66824994 - Session: c558ac02-dea3-438b-894f-9a03db2ad4f6/192.168.0.112:3658
+A new session connected!
+2019-02-24 09:47:05,458 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 09:47:09,964 [6] INFO  MyServer-66824994 - Session: c9c56366-7e70-4a07-a98c-cd1808cc922a/192.168.0.112:3735
+A new session connected!
+2019-02-24 09:47:22,110 [3] INFO  MyServer-66824994 - Session: c9c56366-7e70-4a07-a98c-cd1808cc922a/192.168.0.112:3735
+This session was closed for ProtocolError!
+2019-02-24 09:48:54,505 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 09:48:58,379 [6] INFO  MyServer-66824994 - Session: ccd9aa51-4384-4740-94fd-bf923c864bb9/192.168.0.112:3802
+A new session connected!
+2019-02-24 09:56:17,527 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 09:56:20,148 [6] INFO  MyServer-66824994 - Session: 06dad7a1-e080-4f2e-a15b-58b886e17ee1/192.168.0.112:4009
+A new session connected!
+2019-02-24 10:05:15,985 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 10:05:29,945 [6] INFO  MyServer-66824994 - Session: 8e61c3d6-c87c-4f17-8e9c-f009a006c90f/192.168.0.112:4265
+A new session connected!
+2019-02-24 10:22:29,411 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 10:22:32,628 [6] INFO  MyServer-66824994 - Session: 9c5c3103-1a18-401f-ac8b-e31187f27ac7/192.168.0.112:5079
+A new session connected!
+2019-02-24 10:24:20,914 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 10:24:30,038 [6] INFO  MyServer-66824994 - Session: da185ba5-e34c-403d-96c8-6ff21f8c4ef1/192.168.0.112:5145
+A new session connected!
+2019-02-24 10:25:48,228 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 10:25:53,820 [6] INFO  MyServer-66824994 - Session: 496685de-3571-4032-801e-5da427f62173/192.168.0.112:5191
+A new session connected!
+2019-02-24 10:30:30,856 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 10:35:40,532 [1] INFO  MyServer-6480969 - The server instance MyServer-6480969 has been started!
+2019-02-24 10:35:45,252 [6] INFO  MyServer-6480969 - Session: c39ac936-ba4c-4eb1-84d0-01ff91af7df1/192.168.0.112:5463
+A new session connected!
+2019-02-24 11:02:50,471 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 11:08:06,921 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 11:08:09,918 [6] INFO  MyServer-66824994 - Session: 006eb7b9-6a63-4919-a040-7a47fd6e115e/192.168.0.112:6453
+A new session connected!
+2019-02-24 11:09:57,561 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 11:10:03,004 [6] INFO  MyServer-66824994 - Session: 7703de19-c074-45f4-b780-7e2c11e77f49/192.168.0.112:6501
+A new session connected!
+2019-02-24 11:10:23,660 [9] INFO  MyServer-66824994 - Session: 7703de19-c074-45f4-b780-7e2c11e77f49/192.168.0.112:6501
+This session was closed for ClientClosing!
+2019-02-24 11:11:49,304 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 11:12:12,175 [6] INFO  MyServer-66824994 - Session: 6e1c9402-7546-48e2-b92b-f24aed5aeaa1/192.168.0.112:6545
+A new session connected!
+2019-02-24 11:26:49,989 [1] INFO  MyServer-66824994 - The server instance MyServer-66824994 has been started!
+2019-02-24 11:26:55,290 [6] INFO  MyServer-66824994 - Session: caf2b05d-89cd-4c8b-83fd-f7111eaafcea/192.168.0.112:7063
+A new session connected!
+2019-02-24 11:27:12,820 [3] INFO  MyServer-66824994 - Session: caf2b05d-89cd-4c8b-83fd-f7111eaafcea/192.168.0.112:7063
+This session was closed for ClientClosing!

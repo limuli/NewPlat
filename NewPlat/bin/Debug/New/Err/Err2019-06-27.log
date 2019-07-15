@@ -1,0 +1,15 @@
+﻿2019-06-27 16:54:53,703 - System.ArgumentOutOfRangeException: 索引和长度必须引用该字符串内的位置。
+参数名: length
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 49
+   在 SuperSocket.SocketBase.AppServerBase`2.ExecuteCommand(TAppSession session, TRequestInfo requestInfo)
+2019-06-27 16:59:36,346 - 入网失败System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 138
+2019-06-27 17:43:34,431 - 出网失败System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 NewPlat.MyCommand.MyCommand66.ExecuteCommand(MySession session, MyRequestInfo requestInfo) 位置 E:\VS\NewPlat_new\NewPlat\MyCommand\MyCommand66.cs:行号 251

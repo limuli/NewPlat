@@ -1,0 +1,65 @@
+﻿2019-04-12 14:52:43,065 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-12 14:52:47,270 [9] INFO  MyServer-58328727 - Session: d19caa66-a7fb-4c1f-a432-c2fe4c4015a9/192.168.3.161:2975
+A new session connected!
+2019-04-12 14:56:53,274 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 14:56:58,008 [10] INFO  MyServer-55196503 - Session: b4594cd3-1322-421d-9fdb-8bcbe0e06449/192.168.3.161:3003
+A new session connected!
+2019-04-12 14:58:03,810 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 14:58:07,667 [10] INFO  MyServer-55196503 - Session: 8e19e28f-ffcb-4193-bd10-7eeb34969b80/192.168.3.161:3018
+A new session connected!
+2019-04-12 15:03:34,139 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-12 15:03:38,065 [9] INFO  MyServer-58328727 - Session: fe3f1dcf-03bb-43e6-b03c-e38a4aa05407/192.168.3.161:3068
+A new session connected!
+2019-04-12 15:15:43,734 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-12 15:15:46,519 [10] INFO  MyServer-58328727 - Session: 10a729af-b273-4355-bbab-3037f4b99d09/192.168.3.161:3113
+A new session connected!
+2019-04-12 15:16:19,163 [12] INFO  MyServer-58328727 - Session: 10a729af-b273-4355-bbab-3037f4b99d09/192.168.3.161:3113
+This session was closed for ApplicationError!
+2019-04-12 15:17:46,555 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 15:17:49,517 [4] INFO  MyServer-55196503 - Session: 2fe1b176-2d10-45aa-9752-c36e9183fddf/192.168.3.161:3134
+A new session connected!
+2019-04-12 15:30:35,407 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-12 15:30:38,051 [8] INFO  MyServer-58328727 - Session: b3605f4d-d0d6-432f-b0a2-6ff772b9b84d/192.168.3.161:3176
+A new session connected!
+2019-04-12 15:38:22,681 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 15:38:25,209 [4] INFO  MyServer-55196503 - Session: 8dd697d9-e819-49aa-a3ef-d45061a3c81e/192.168.3.161:3202
+A new session connected!
+2019-04-12 15:41:05,140 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 15:41:08,423 [4] INFO  MyServer-55196503 - Session: f43ebe5f-dcca-4c3d-a795-0b2b42280a51/192.168.3.161:3235
+A new session connected!
+2019-04-12 15:44:22,398 [1] INFO  MyServer-46729429 - The server instance MyServer-46729429 has been started!
+2019-04-12 15:44:25,829 [9] INFO  MyServer-46729429 - Session: 3491695b-95d6-4e7d-aae4-91f2e1b88020/192.168.3.161:3272
+A new session connected!
+2019-04-12 15:57:48,110 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 15:57:51,256 [4] INFO  MyServer-55196503 - Session: 0ff7bac1-9cba-4d80-b46e-551aa7dd0e80/192.168.3.161:3338
+A new session connected!
+2019-04-12 16:01:27,993 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 16:01:34,625 [4] INFO  MyServer-55196503 - Session: f7542f2b-0d65-4cd5-8db4-bb01ef7cb382/192.168.3.161:3369
+A new session connected!
+2019-04-12 16:02:56,709 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 16:02:59,642 [10] INFO  MyServer-55196503 - Session: 6f3f3924-0380-4023-a9de-0f4f31fe9c03/192.168.3.161:3398
+A new session connected!
+2019-04-12 16:09:39,250 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-12 16:09:41,138 [9] INFO  MyServer-58328727 - Session: 69390f5d-4498-4b6d-8eb4-f4d8844d38d8/192.168.3.161:3434
+A new session connected!
+2019-04-12 16:14:28,546 [11] INFO  MyServer-58328727 - Session: 69390f5d-4498-4b6d-8eb4-f4d8844d38d8/192.168.3.161:3434
+This session was closed for ApplicationError!
+2019-04-12 16:34:52,173 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 16:40:18,242 [5] INFO  MyServer-55196503 - Session: b5665ce2-5e21-48ee-8f88-4c76800b9625/192.168.3.178:56309
+A new session connected!
+2019-04-12 16:44:21,965 [1] INFO  MyServer-58328727 - The server instance MyServer-58328727 has been started!
+2019-04-12 16:44:25,818 [4] INFO  MyServer-58328727 - Session: 066f9248-5722-4196-b505-913c69604845/192.168.3.178:56312
+A new session connected!
+2019-04-12 19:23:06,257 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 19:23:08,404 [5] INFO  MyServer-55196503 - Session: 77cfdd36-e173-4949-a75a-7727804c3c0e/192.168.3.189:39300
+A new session connected!
+2019-04-12 19:41:23,231 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 19:42:20,931 [8] INFO  MyServer-55196503 - Session: 03fc87f9-4021-4660-83b4-339d28e88c8d/192.168.3.189:39422
+A new session connected!
+2019-04-12 19:45:56,216 [1] INFO  MyServer-55196503 - The server instance MyServer-55196503 has been started!
+2019-04-12 19:45:57,806 [10] INFO  MyServer-55196503 - Session: 6c16951a-1771-4f07-9ddf-6639914366eb/192.168.3.189:39430
+A new session connected!
+2019-04-12 19:46:24,054 [10] INFO  MyServer-55196503 - Session: 4b8677ce-e1a2-4f07-8d1d-0e139125cacf/192.168.3.189:39426
+A new session connected!
+2019-04-12 19:46:26,303 [10] INFO  MyServer-55196503 - Session: ceb5a558-1c3c-4f45-9a02-c4fd1b417d70/192.168.3.189:39434
+A new session connected!
