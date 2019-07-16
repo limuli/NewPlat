@@ -295,16 +295,16 @@ namespace NewPlat.UI
                                     case "命令检测":
                                         Myadapter_p.UpdatePlatCom("异常", hi.Id);
                                         break;
-                                    case "Ic检测":
+                                    case "IC卡卡控":
                                         Myadapter_p.UpdatePlatIc("异常", hi.Id);
                                         break;
-                                    case "初检模式表":
+                                    case "膜式表初检":
                                         Myadapter_p.UpdatePlatChu_msb("异常", hi.Id);
                                         break;
-                                    case "初检修正仪":
+                                    case "修正仪初检":
                                         Myadapter_p.UpdatePlatChu_xzy("异常", hi.Id);
                                         break;
-                                    case "初检超声波":
+                                    case "超声波初检":
                                         Myadapter_p.UpdatePlatChu_csb("异常", hi.Id);
                                         break;
                                     case "终检":
