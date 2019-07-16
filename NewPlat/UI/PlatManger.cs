@@ -661,7 +661,7 @@ namespace NewPlat.UI
                 MessageBoxOptions.DefaultDesktopOnly);
                 if(dr == DialogResult.Yes)
                 {
-                    der = new DetailResult(id, e.ColumnIndex,ever);
+                    der = new DetailResult(id, e.ColumnIndex,ever,"AAAA");
                     der.Show();
                 }
             }

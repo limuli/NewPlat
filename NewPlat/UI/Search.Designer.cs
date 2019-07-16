@@ -29,12 +29,14 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             this.DGV_MeterInfo = new System.Windows.Forms.DataGridView();
             this.serach = new System.Windows.Forms.Button();
             this.TB_MeterId = new System.Windows.Forms.TextBox();
@@ -58,17 +60,19 @@
             this.BT_result = new System.Windows.Forms.Button();
             this.DGV_result = new System.Windows.Forms.DataGridView();
             this.ManufactureName_id = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterIdDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterIcStateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterChuStateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterComStateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterZhongStateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterStateDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterCancelDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterPrivilegeDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.subtimeDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.checkTimeDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.meterTimeDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterDetil = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.MeterEvery = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterId = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterIcState = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterChuState = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterComState = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterZhongState = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterState = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterCancel = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterPrivilege = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Subtime = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CheckTime = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MeterTime = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.meterSearchBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.meterIdDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.meterTypeDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -79,6 +83,11 @@
             this.meterStateDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.checkTimeDataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.meterInfoBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_MeterInfo)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.TB_jindu.SuspendLayout();
@@ -86,6 +95,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGV_result)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.meterSearchBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.meterInfoBindingSource)).BeginInit();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.groupBox4.SuspendLayout();
+            this.groupBox5.SuspendLayout();
             this.SuspendLayout();
             // 
             // DGV_MeterInfo
@@ -97,14 +111,14 @@
             this.DGV_MeterInfo.AutoGenerateColumns = false;
             this.DGV_MeterInfo.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DGV_MeterInfo.BackgroundColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DGV_MeterInfo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DGV_MeterInfo.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.DGV_MeterInfo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DGV_MeterInfo.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.meterIdDataGridViewTextBoxColumn1,
@@ -116,38 +130,38 @@
             this.meterStateDataGridViewTextBoxColumn1,
             this.checkTimeDataGridViewTextBoxColumn1});
             this.DGV_MeterInfo.DataSource = this.meterInfoBindingSource;
-            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DGV_MeterInfo.DefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DGV_MeterInfo.DefaultCellStyle = dataGridViewCellStyle2;
             this.DGV_MeterInfo.EnableHeadersVisualStyles = false;
-            this.DGV_MeterInfo.Location = new System.Drawing.Point(40, 351);
+            this.DGV_MeterInfo.Location = new System.Drawing.Point(13, 351);
             this.DGV_MeterInfo.Margin = new System.Windows.Forms.Padding(4);
             this.DGV_MeterInfo.Name = "DGV_MeterInfo";
             this.DGV_MeterInfo.ReadOnly = true;
-            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DGV_MeterInfo.RowHeadersDefaultCellStyle = dataGridViewCellStyle9;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DGV_MeterInfo.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.DGV_MeterInfo.RowHeadersVisible = false;
             this.DGV_MeterInfo.RowHeadersWidth = 51;
             this.DGV_MeterInfo.RowTemplate.Height = 23;
-            this.DGV_MeterInfo.Size = new System.Drawing.Size(1830, 660);
+            this.DGV_MeterInfo.Size = new System.Drawing.Size(1898, 660);
             this.DGV_MeterInfo.TabIndex = 2;
             this.DGV_MeterInfo.Leave += new System.EventHandler(this.DGV_MeterInfo_Leave);
             // 
             // serach
             // 
             this.serach.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.serach.Location = new System.Drawing.Point(259, 216);
+            this.serach.Location = new System.Drawing.Point(786, 194);
             this.serach.Name = "serach";
             this.serach.Size = new System.Drawing.Size(187, 54);
             this.serach.TabIndex = 3;
@@ -158,7 +172,7 @@
             // TB_MeterId
             // 
             this.TB_MeterId.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.TB_MeterId.Location = new System.Drawing.Point(101, 37);
+            this.TB_MeterId.Location = new System.Drawing.Point(16, 51);
             this.TB_MeterId.Name = "TB_MeterId";
             this.TB_MeterId.Size = new System.Drawing.Size(142, 34);
             this.TB_MeterId.TabIndex = 4;
@@ -167,7 +181,7 @@
             // 
             this.DTP_Start.CalendarFont = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.DTP_Start.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.DTP_Start.Location = new System.Drawing.Point(416, 36);
+            this.DTP_Start.Location = new System.Drawing.Point(58, 52);
             this.DTP_Start.Name = "DTP_Start";
             this.DTP_Start.Size = new System.Drawing.Size(231, 34);
             this.DTP_Start.TabIndex = 5;
@@ -176,7 +190,7 @@
             // 
             this.DTP_End.CalendarFont = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.DTP_End.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.DTP_End.Location = new System.Drawing.Point(416, 77);
+            this.DTP_End.Location = new System.Drawing.Point(58, 93);
             this.DTP_End.Name = "DTP_End";
             this.DTP_End.Size = new System.Drawing.Size(231, 34);
             this.DTP_End.TabIndex = 6;
@@ -185,7 +199,7 @@
             // 
             this.CB_MeterId.AutoSize = true;
             this.CB_MeterId.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.CB_MeterId.Location = new System.Drawing.Point(101, 109);
+            this.CB_MeterId.Location = new System.Drawing.Point(16, 103);
             this.CB_MeterId.Name = "CB_MeterId";
             this.CB_MeterId.Size = new System.Drawing.Size(80, 28);
             this.CB_MeterId.TabIndex = 7;
@@ -196,7 +210,7 @@
             // 
             this.CB_Time.AutoSize = true;
             this.CB_Time.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.CB_Time.Location = new System.Drawing.Point(416, 132);
+            this.CB_Time.Location = new System.Drawing.Point(58, 148);
             this.CB_Time.Name = "CB_Time";
             this.CB_Time.Size = new System.Drawing.Size(128, 28);
             this.CB_Time.TabIndex = 8;
@@ -219,14 +233,9 @@
             // TB_jindu
             // 
             this.TB_jindu.BackColor = System.Drawing.SystemColors.Control;
-            this.TB_jindu.Controls.Add(this.label2);
-            this.TB_jindu.Controls.Add(this.label1);
-            this.TB_jindu.Controls.Add(this.TB_MeterId);
-            this.TB_jindu.Controls.Add(this.CB_Time);
-            this.TB_jindu.Controls.Add(this.CB_MeterId);
+            this.TB_jindu.Controls.Add(this.groupBox2);
+            this.TB_jindu.Controls.Add(this.groupBox1);
             this.TB_jindu.Controls.Add(this.serach);
-            this.TB_jindu.Controls.Add(this.DTP_End);
-            this.TB_jindu.Controls.Add(this.DTP_Start);
             this.TB_jindu.Location = new System.Drawing.Point(4, 33);
             this.TB_jindu.Name = "TB_jindu";
             this.TB_jindu.Padding = new System.Windows.Forms.Padding(3);
@@ -239,7 +248,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label2.Location = new System.Drawing.Point(364, 77);
+            this.label2.Location = new System.Drawing.Point(6, 93);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(46, 24);
             this.label2.TabIndex = 10;
@@ -249,7 +258,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label1.Location = new System.Drawing.Point(364, 37);
+            this.label1.Location = new System.Drawing.Point(6, 53);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(46, 24);
             this.label1.TabIndex = 9;
@@ -258,14 +267,9 @@
             // TP_result
             // 
             this.TP_result.BackColor = System.Drawing.SystemColors.Control;
-            this.TP_result.Controls.Add(this.BT_over);
-            this.TP_result.Controls.Add(this.BT_all);
-            this.TP_result.Controls.Add(this.CLB_changjia);
-            this.TP_result.Controls.Add(this.CB_checktime);
-            this.TP_result.Controls.Add(this.dtp_chencktime_end);
-            this.TP_result.Controls.Add(this.dtp_checktime_start);
-            this.TP_result.Controls.Add(this.CB_id);
-            this.TP_result.Controls.Add(this.TB_ID);
+            this.TP_result.Controls.Add(this.groupBox5);
+            this.TP_result.Controls.Add(this.groupBox4);
+            this.TP_result.Controls.Add(this.groupBox3);
             this.TP_result.Controls.Add(this.BT_result);
             this.TP_result.Location = new System.Drawing.Point(4, 33);
             this.TP_result.Name = "TP_result";
@@ -278,7 +282,7 @@
             // BT_over
             // 
             this.BT_over.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.BT_over.Location = new System.Drawing.Point(875, 103);
+            this.BT_over.Location = new System.Drawing.Point(280, 152);
             this.BT_over.Name = "BT_over";
             this.BT_over.Size = new System.Drawing.Size(90, 39);
             this.BT_over.TabIndex = 8;
@@ -289,7 +293,7 @@
             // BT_all
             // 
             this.BT_all.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.BT_all.Location = new System.Drawing.Point(875, 41);
+            this.BT_all.Location = new System.Drawing.Point(280, 61);
             this.BT_all.Name = "BT_all";
             this.BT_all.Size = new System.Drawing.Size(90, 40);
             this.BT_all.TabIndex = 7;
@@ -301,16 +305,16 @@
             // 
             this.CLB_changjia.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.CLB_changjia.FormattingEnabled = true;
-            this.CLB_changjia.Location = new System.Drawing.Point(602, 35);
+            this.CLB_changjia.Location = new System.Drawing.Point(18, 33);
             this.CLB_changjia.Name = "CLB_changjia";
-            this.CLB_changjia.Size = new System.Drawing.Size(222, 236);
+            this.CLB_changjia.Size = new System.Drawing.Size(206, 207);
             this.CLB_changjia.TabIndex = 6;
             // 
             // CB_checktime
             // 
             this.CB_checktime.AutoSize = true;
             this.CB_checktime.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.CB_checktime.Location = new System.Drawing.Point(326, 137);
+            this.CB_checktime.Location = new System.Drawing.Point(19, 163);
             this.CB_checktime.Name = "CB_checktime";
             this.CB_checktime.Size = new System.Drawing.Size(128, 28);
             this.CB_checktime.TabIndex = 5;
@@ -320,7 +324,7 @@
             // dtp_chencktime_end
             // 
             this.dtp_chencktime_end.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.dtp_chencktime_end.Location = new System.Drawing.Point(326, 80);
+            this.dtp_chencktime_end.Location = new System.Drawing.Point(19, 106);
             this.dtp_chencktime_end.Name = "dtp_chencktime_end";
             this.dtp_chencktime_end.Size = new System.Drawing.Size(229, 34);
             this.dtp_chencktime_end.TabIndex = 4;
@@ -328,7 +332,7 @@
             // dtp_checktime_start
             // 
             this.dtp_checktime_start.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.dtp_checktime_start.Location = new System.Drawing.Point(326, 35);
+            this.dtp_checktime_start.Location = new System.Drawing.Point(19, 61);
             this.dtp_checktime_start.Name = "dtp_checktime_start";
             this.dtp_checktime_start.Size = new System.Drawing.Size(229, 34);
             this.dtp_checktime_start.TabIndex = 3;
@@ -337,7 +341,7 @@
             // 
             this.CB_id.AutoSize = true;
             this.CB_id.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.CB_id.Location = new System.Drawing.Point(73, 98);
+            this.CB_id.Location = new System.Drawing.Point(16, 112);
             this.CB_id.Name = "CB_id";
             this.CB_id.Size = new System.Drawing.Size(80, 28);
             this.CB_id.TabIndex = 2;
@@ -347,15 +351,15 @@
             // TB_ID
             // 
             this.TB_ID.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.TB_ID.Location = new System.Drawing.Point(73, 35);
+            this.TB_ID.Location = new System.Drawing.Point(16, 55);
             this.TB_ID.Name = "TB_ID";
-            this.TB_ID.Size = new System.Drawing.Size(100, 34);
+            this.TB_ID.Size = new System.Drawing.Size(147, 34);
             this.TB_ID.TabIndex = 1;
             // 
             // BT_result
             // 
             this.BT_result.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.BT_result.Location = new System.Drawing.Point(1105, 123);
+            this.BT_result.Location = new System.Drawing.Point(1108, 209);
             this.BT_result.Name = "BT_result";
             this.BT_result.Size = new System.Drawing.Size(157, 56);
             this.BT_result.TabIndex = 0;
@@ -372,54 +376,59 @@
             this.DGV_result.AutoGenerateColumns = false;
             this.DGV_result.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DGV_result.BackgroundColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle10.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle10.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DGV_result.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle10;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("楷体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DGV_result.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.DGV_result.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DGV_result.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.meterIdDataGridViewTextBoxColumn,
+            this.MeterId,
             this.ManufactureName_id,
-            this.meterIcStateDataGridViewTextBoxColumn,
-            this.meterChuStateDataGridViewTextBoxColumn,
-            this.meterComStateDataGridViewTextBoxColumn,
-            this.meterZhongStateDataGridViewTextBoxColumn,
-            this.meterStateDataGridViewTextBoxColumn,
-            this.meterCancelDataGridViewTextBoxColumn,
-            this.meterPrivilegeDataGridViewTextBoxColumn,
-            this.subtimeDataGridViewTextBoxColumn,
-            this.checkTimeDataGridViewTextBoxColumn,
-            this.meterTimeDataGridViewTextBoxColumn});
+            this.MeterIcState,
+            this.MeterChuState,
+            this.MeterComState,
+            this.MeterZhongState,
+            this.MeterState,
+            this.MeterCancel,
+            this.MeterPrivilege,
+            this.Subtime,
+            this.CheckTime,
+            this.MeterTime,
+            this.MeterDetil,
+            this.MeterEvery});
             this.DGV_result.DataSource = this.meterSearchBindingSource;
-            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle11.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle11.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle11.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DGV_result.DefaultCellStyle = dataGridViewCellStyle11;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("楷体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DGV_result.DefaultCellStyle = dataGridViewCellStyle6;
             this.DGV_result.EnableHeadersVisualStyles = false;
-            this.DGV_result.Location = new System.Drawing.Point(40, 351);
+            this.DGV_result.Location = new System.Drawing.Point(13, 351);
             this.DGV_result.Margin = new System.Windows.Forms.Padding(4);
             this.DGV_result.Name = "DGV_result";
-            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle12.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            dataGridViewCellStyle12.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle12.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle12.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle12.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DGV_result.RowHeadersDefaultCellStyle = dataGridViewCellStyle12;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle7.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("楷体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DGV_result.RowHeadersDefaultCellStyle = dataGridViewCellStyle7;
             this.DGV_result.RowHeadersVisible = false;
             this.DGV_result.RowHeadersWidth = 51;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("楷体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.DGV_result.RowsDefaultCellStyle = dataGridViewCellStyle8;
             this.DGV_result.RowTemplate.Height = 23;
-            this.DGV_result.Size = new System.Drawing.Size(1830, 660);
+            this.DGV_result.Size = new System.Drawing.Size(1898, 660);
             this.DGV_result.TabIndex = 10;
+            this.DGV_result.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DGV_result_CellContentClick);
             this.DGV_result.Leave += new System.EventHandler(this.DGV_result_Leave);
             // 
             // ManufactureName_id
@@ -430,93 +439,116 @@
             this.ManufactureName_id.Name = "ManufactureName_id";
             this.ManufactureName_id.ReadOnly = true;
             // 
-            // meterIdDataGridViewTextBoxColumn
+            // MeterDetil
             // 
-            this.meterIdDataGridViewTextBoxColumn.DataPropertyName = "MeterId";
-            this.meterIdDataGridViewTextBoxColumn.HeaderText = "表号";
-            this.meterIdDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterIdDataGridViewTextBoxColumn.Name = "meterIdDataGridViewTextBoxColumn";
-            this.meterIdDataGridViewTextBoxColumn.ReadOnly = true;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("楷体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.White;
+            this.MeterDetil.DefaultCellStyle = dataGridViewCellStyle5;
+            this.MeterDetil.HeaderText = "查看详情";
+            this.MeterDetil.MinimumWidth = 6;
+            this.MeterDetil.Name = "MeterDetil";
+            this.MeterDetil.Text = "详情";
+            this.MeterDetil.UseColumnTextForButtonValue = true;
             // 
-            // meterIcStateDataGridViewTextBoxColumn
+            // MeterEvery
             // 
-            this.meterIcStateDataGridViewTextBoxColumn.DataPropertyName = "MeterIcState";
-            this.meterIcStateDataGridViewTextBoxColumn.HeaderText = "IC测试";
-            this.meterIcStateDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterIcStateDataGridViewTextBoxColumn.Name = "meterIcStateDataGridViewTextBoxColumn";
-            this.meterIcStateDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterEvery.DataPropertyName = "MeterEvery";
+            this.MeterEvery.HeaderText = "MeterEvery";
+            this.MeterEvery.MinimumWidth = 6;
+            this.MeterEvery.Name = "MeterEvery";
+            this.MeterEvery.Visible = false;
             // 
-            // meterChuStateDataGridViewTextBoxColumn
+            // MeterId
             // 
-            this.meterChuStateDataGridViewTextBoxColumn.DataPropertyName = "MeterChuState";
-            this.meterChuStateDataGridViewTextBoxColumn.HeaderText = "初检";
-            this.meterChuStateDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterChuStateDataGridViewTextBoxColumn.Name = "meterChuStateDataGridViewTextBoxColumn";
-            this.meterChuStateDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterId.DataPropertyName = "MeterId";
+            this.MeterId.HeaderText = "表号";
+            this.MeterId.MinimumWidth = 6;
+            this.MeterId.Name = "MeterId";
+            this.MeterId.ReadOnly = true;
             // 
-            // meterComStateDataGridViewTextBoxColumn
+            // MeterIcState
             // 
-            this.meterComStateDataGridViewTextBoxColumn.DataPropertyName = "MeterComState";
-            this.meterComStateDataGridViewTextBoxColumn.HeaderText = "命令";
-            this.meterComStateDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterComStateDataGridViewTextBoxColumn.Name = "meterComStateDataGridViewTextBoxColumn";
-            this.meterComStateDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterIcState.DataPropertyName = "MeterIcState";
+            this.MeterIcState.HeaderText = "IC测试";
+            this.MeterIcState.MinimumWidth = 6;
+            this.MeterIcState.Name = "MeterIcState";
+            this.MeterIcState.ReadOnly = true;
             // 
-            // meterZhongStateDataGridViewTextBoxColumn
+            // MeterChuState
             // 
-            this.meterZhongStateDataGridViewTextBoxColumn.DataPropertyName = "MeterZhongState";
-            this.meterZhongStateDataGridViewTextBoxColumn.HeaderText = "终检";
-            this.meterZhongStateDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterZhongStateDataGridViewTextBoxColumn.Name = "meterZhongStateDataGridViewTextBoxColumn";
-            this.meterZhongStateDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterChuState.DataPropertyName = "MeterChuState";
+            this.MeterChuState.HeaderText = "初检";
+            this.MeterChuState.MinimumWidth = 6;
+            this.MeterChuState.Name = "MeterChuState";
+            this.MeterChuState.ReadOnly = true;
             // 
-            // meterStateDataGridViewTextBoxColumn
+            // MeterComState
             // 
-            this.meterStateDataGridViewTextBoxColumn.DataPropertyName = "MeterState";
-            this.meterStateDataGridViewTextBoxColumn.HeaderText = "总结果";
-            this.meterStateDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterStateDataGridViewTextBoxColumn.Name = "meterStateDataGridViewTextBoxColumn";
-            this.meterStateDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterComState.DataPropertyName = "MeterComState";
+            this.MeterComState.HeaderText = "命令";
+            this.MeterComState.MinimumWidth = 6;
+            this.MeterComState.Name = "MeterComState";
+            this.MeterComState.ReadOnly = true;
             // 
-            // meterCancelDataGridViewTextBoxColumn
+            // MeterZhongState
             // 
-            this.meterCancelDataGridViewTextBoxColumn.DataPropertyName = "MeterCancel";
-            this.meterCancelDataGridViewTextBoxColumn.HeaderText = "取消测试";
-            this.meterCancelDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterCancelDataGridViewTextBoxColumn.Name = "meterCancelDataGridViewTextBoxColumn";
-            this.meterCancelDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterZhongState.DataPropertyName = "MeterZhongState";
+            this.MeterZhongState.HeaderText = "终检";
+            this.MeterZhongState.MinimumWidth = 6;
+            this.MeterZhongState.Name = "MeterZhongState";
+            this.MeterZhongState.ReadOnly = true;
             // 
-            // meterPrivilegeDataGridViewTextBoxColumn
+            // MeterState
             // 
-            this.meterPrivilegeDataGridViewTextBoxColumn.DataPropertyName = "MeterPrivilege";
-            this.meterPrivilegeDataGridViewTextBoxColumn.HeaderText = "优先";
-            this.meterPrivilegeDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterPrivilegeDataGridViewTextBoxColumn.Name = "meterPrivilegeDataGridViewTextBoxColumn";
-            this.meterPrivilegeDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterState.DataPropertyName = "MeterState";
+            this.MeterState.HeaderText = "总结果";
+            this.MeterState.MinimumWidth = 6;
+            this.MeterState.Name = "MeterState";
+            this.MeterState.ReadOnly = true;
             // 
-            // subtimeDataGridViewTextBoxColumn
+            // MeterCancel
             // 
-            this.subtimeDataGridViewTextBoxColumn.DataPropertyName = "Subtime";
-            this.subtimeDataGridViewTextBoxColumn.HeaderText = "提交时间";
-            this.subtimeDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.subtimeDataGridViewTextBoxColumn.Name = "subtimeDataGridViewTextBoxColumn";
-            this.subtimeDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterCancel.DataPropertyName = "MeterCancel";
+            this.MeterCancel.HeaderText = "取消测试";
+            this.MeterCancel.MinimumWidth = 6;
+            this.MeterCancel.Name = "MeterCancel";
+            this.MeterCancel.ReadOnly = true;
             // 
-            // checkTimeDataGridViewTextBoxColumn
+            // MeterPrivilege
             // 
-            this.checkTimeDataGridViewTextBoxColumn.DataPropertyName = "CheckTime";
-            this.checkTimeDataGridViewTextBoxColumn.HeaderText = "审核时间";
-            this.checkTimeDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.checkTimeDataGridViewTextBoxColumn.Name = "checkTimeDataGridViewTextBoxColumn";
-            this.checkTimeDataGridViewTextBoxColumn.ReadOnly = true;
+            this.MeterPrivilege.DataPropertyName = "MeterPrivilege";
+            this.MeterPrivilege.HeaderText = "优先";
+            this.MeterPrivilege.MinimumWidth = 6;
+            this.MeterPrivilege.Name = "MeterPrivilege";
+            this.MeterPrivilege.ReadOnly = true;
             // 
-            // meterTimeDataGridViewTextBoxColumn
+            // Subtime
             // 
-            this.meterTimeDataGridViewTextBoxColumn.DataPropertyName = "MeterTime";
-            this.meterTimeDataGridViewTextBoxColumn.HeaderText = "测试时间";
-            this.meterTimeDataGridViewTextBoxColumn.MinimumWidth = 6;
-            this.meterTimeDataGridViewTextBoxColumn.Name = "meterTimeDataGridViewTextBoxColumn";
-            this.meterTimeDataGridViewTextBoxColumn.ReadOnly = true;
+            this.Subtime.DataPropertyName = "Subtime";
+            this.Subtime.HeaderText = "提交时间";
+            this.Subtime.MinimumWidth = 6;
+            this.Subtime.Name = "Subtime";
+            this.Subtime.ReadOnly = true;
+            // 
+            // CheckTime
+            // 
+            this.CheckTime.DataPropertyName = "CheckTime";
+            this.CheckTime.HeaderText = "审核时间";
+            this.CheckTime.MinimumWidth = 6;
+            this.CheckTime.Name = "CheckTime";
+            this.CheckTime.ReadOnly = true;
+            // 
+            // MeterTime
+            // 
+            this.MeterTime.DataPropertyName = "MeterTime";
+            this.MeterTime.HeaderText = "测试时间";
+            this.MeterTime.MinimumWidth = 6;
+            this.MeterTime.Name = "MeterTime";
+            this.MeterTime.ReadOnly = true;
             // 
             // meterSearchBindingSource
             // 
@@ -590,6 +622,66 @@
             // 
             this.meterInfoBindingSource.DataSource = typeof(NewPlat.Model.MeterInfo);
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.TB_MeterId);
+            this.groupBox1.Controls.Add(this.CB_MeterId);
+            this.groupBox1.Location = new System.Drawing.Point(18, 36);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(266, 212);
+            this.groupBox1.TabIndex = 11;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "表号";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.label1);
+            this.groupBox2.Controls.Add(this.DTP_Start);
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.DTP_End);
+            this.groupBox2.Controls.Add(this.CB_Time);
+            this.groupBox2.Location = new System.Drawing.Point(335, 36);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(348, 212);
+            this.groupBox2.TabIndex = 12;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "测试时间";
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.TB_ID);
+            this.groupBox3.Controls.Add(this.CB_id);
+            this.groupBox3.Location = new System.Drawing.Point(26, 25);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(233, 246);
+            this.groupBox3.TabIndex = 9;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "表号";
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.dtp_checktime_start);
+            this.groupBox4.Controls.Add(this.dtp_chencktime_end);
+            this.groupBox4.Controls.Add(this.CB_checktime);
+            this.groupBox4.Location = new System.Drawing.Point(305, 25);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(291, 246);
+            this.groupBox4.TabIndex = 10;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "审核时间";
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.CLB_changjia);
+            this.groupBox5.Controls.Add(this.BT_all);
+            this.groupBox5.Controls.Add(this.BT_over);
+            this.groupBox5.Location = new System.Drawing.Point(638, 25);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(408, 246);
+            this.groupBox5.TabIndex = 11;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "厂商";
+            // 
             // Search
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
@@ -602,17 +694,25 @@
             this.Name = "Search";
             this.Text = "Search";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Search_FormClosing);
             this.Load += new System.EventHandler(this.Search_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Search_MouseDown);
             ((System.ComponentModel.ISupportInitialize)(this.DGV_MeterInfo)).EndInit();
             this.tabControl1.ResumeLayout(false);
             this.TB_jindu.ResumeLayout(false);
-            this.TB_jindu.PerformLayout();
             this.TP_result.ResumeLayout(false);
-            this.TP_result.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_result)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.meterSearchBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.meterInfoBindingSource)).EndInit();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
+            this.groupBox5.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -638,18 +738,6 @@
         private System.Windows.Forms.CheckBox CB_id;
         private System.Windows.Forms.TextBox TB_ID;
         private System.Windows.Forms.Button BT_result;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterIdDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn ManufactureName_id;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterIcStateDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterChuStateDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterComStateDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterZhongStateDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterStateDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterCancelDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterPrivilegeDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn subtimeDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn checkTimeDataGridViewTextBoxColumn;
-        private System.Windows.Forms.DataGridViewTextBoxColumn meterTimeDataGridViewTextBoxColumn;
         private System.Windows.Forms.BindingSource meterSearchBindingSource;
         private System.Windows.Forms.DataGridViewTextBoxColumn meterIdDataGridViewTextBoxColumn1;
         private System.Windows.Forms.DataGridViewTextBoxColumn meterTypeDataGridViewTextBoxColumn;
@@ -663,5 +751,24 @@
         private System.Windows.Forms.Button BT_all;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterId;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ManufactureName_id;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterIcState;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterChuState;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterComState;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterZhongState;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterState;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterCancel;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterPrivilege;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Subtime;
+        private System.Windows.Forms.DataGridViewTextBoxColumn CheckTime;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterTime;
+        private System.Windows.Forms.DataGridViewButtonColumn MeterDetil;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MeterEvery;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox groupBox5;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.GroupBox groupBox3;
     }
 }

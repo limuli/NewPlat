@@ -15,6 +15,7 @@ namespace NewPlat.UI
 {
     public partial class Search : Form
     {
+        DetailResult der;
         Dictionary<string, string> manufacture = new Dictionary<string, string>();
         public Search()
         {
@@ -38,6 +39,7 @@ namespace NewPlat.UI
             DataTable dt2 = MysqlHepler.SqlReturnDs(sql2).Tables[0];
             IList<MeterInfo> li = Dt2serch(Dt2listmeter(dt), Dt2distmeterplat(dt2));
             DGV_MeterInfo.DataSource = li;
+            AutoSizeColumn(DGV_MeterInfo);
         }
 
         private void Search_Load(object sender, EventArgs e)
@@ -55,6 +57,8 @@ namespace NewPlat.UI
             DGV_result.Visible = false;
             DGV_MeterInfo.ClearSelection();
             DGV_result.ClearSelection();
+            AutoSizeColumn(DGV_result);
+            AutoSizeColumn(DGV_MeterInfo);
         }
 
         private List<MeterInfo> Dt2listmeter(DataTable DT)
@@ -247,6 +251,7 @@ namespace NewPlat.UI
             DataTable dt2 = MysqlHepler.SqlReturnDs(sql2).Tables[0];
             IList<MeterSearch> li = Dt2serch_result(Dt2listmetersearch(dt), Dt2distmeterplat(dt2));
             DGV_result.DataSource = li;
+            AutoSizeColumn(DGV_result);
         }
 
         private void BT_all_Click(object sender, EventArgs e)
@@ -303,6 +308,57 @@ namespace NewPlat.UI
             DGV_MeterInfo.ClearSelection();
             DGV_result.ClearSelection();
             CLB_changjia.SelectedItems.Clear();
+        }
+
+        private static void AutoSizeColumn(DataGridView dgViewFiles)
+        {
+            int width = 0;
+            //使列自使用宽度
+            //对于DataGridView的每一个列都调整
+            for (int i = 0; i < dgViewFiles.Columns.Count; i++)
+            {
+                //将每一列都调整为自动适应模式
+                dgViewFiles.AutoResizeColumn(i, DataGridViewAutoSizeColumnMode.AllCells);
+                //记录整个DataGridView的宽度
+                width += dgViewFiles.Columns[i].Width;
+            }
+            //判断调整后的宽度与原来设定的宽度的关系，如果是调整后的宽度大于原来设定的宽度，
+            //则将DataGridView的列自动调整模式设置为显示的列即可，
+            //如果是小于原来设定的宽度，将模式改为填充。
+            if (width > dgViewFiles.Size.Width)
+            {
+                dgViewFiles.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.DisplayedCells;
+            }
+            else
+            {
+                dgViewFiles.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            }
+            //冻结某列 从左开始 0，1，2
+            dgViewFiles.Columns[1].Frozen = true;
+        }
+
+        private void DGV_result_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if(DGV_result.Columns[e.ColumnIndex].Name == "MeterDetil")
+            {
+                if (der != null)
+                    der.Close();
+                string fla = "";
+                fla += this.DGV_result.Rows[e.RowIndex].Cells["MeterChuState"].Value.ToString().Equals("不测") ? "5" : "A";
+                fla += this.DGV_result.Rows[e.RowIndex].Cells["MeterIcState"].Value.ToString().Equals("不测") ? "5" : "A";
+                fla += this.DGV_result.Rows[e.RowIndex].Cells["MeterComState"].Value.ToString().Equals("不测") ? "5" : "A";
+                fla += this.DGV_result.Rows[e.RowIndex].Cells["MeterZhongState"].Value.ToString().Equals("不测") ? "5" : "A";
+                string id = this.DGV_result.Rows[e.RowIndex].Cells[0].Value.ToString();
+                string ever = this.DGV_result.Rows[e.RowIndex].Cells["MeterEvery"].Value.ToString();
+                der = new DetailResult(id, 6, ever,fla);
+                der.Show();
+            }
+        }
+
+        private void Search_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (der != null)
+                der.Close();
         }
     }
 }

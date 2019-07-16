@@ -150,7 +150,6 @@
     <Compile Include="BLL\XmlRW.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Model\HeartInfo.cs" />
-    <Compile Include="Model\MeterEvery.cs" />
     <Compile Include="Model\MeterInfo.cs" />
     <Compile Include="Model\MeterPlat.cs" />
     <Compile Include="Model\MeterSearch.cs" />
@@ -324,6 +323,7 @@
     <None Include="Resources\lisenter2.jpg" />
     <Content Include="logo1.ico" />
     <None Include="Resources\f12.png" />
+    <None Include="Resources\clo.jpg" />
     <Content Include="Xml\PlatInfo.xml">
       <SubType>Designer</SubType>
     </Content>

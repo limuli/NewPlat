@@ -125,9 +125,14 @@ namespace NewPlat.UI
             Thread.Sleep(2000);
             try
             {
-                string n = Myadapter_p.ScalarTest("未启用").ToString();
-                if (n != null)
+                // string n = Myadapter_p.ScalarTest("未启用").ToString();
+                // if (n != null)
+                if (MysqlHepler.SqlOpen())
+                {
                     SetSqllb("数据库测试通过", Color.Green);
+                    MysqlHepler.SqlClose();
+                }
+                    
                 else SetSqllb("数据库连接失败(1)", Color.Red);
 
             }

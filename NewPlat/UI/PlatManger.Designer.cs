@@ -83,6 +83,7 @@ namespace NewPlat.UI
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
+            this.TSB_search = new System.Windows.Forms.ToolStripButton();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.DGV_SB = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -100,7 +101,6 @@ namespace NewPlat.UI
             this.dT_SBTableAdapter = new NewPlat.MyDataSetTableAdapters.DT_SBTableAdapter();
             this.界面刷新ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.PB_LIS = new System.Windows.Forms.PictureBox();
-            this.TSB_search = new System.Windows.Forms.ToolStripButton();
             ((System.ComponentModel.ISupportInitialize)(this.dtMeterInfoBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.myDataSetBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.myDataSet)).BeginInit();
@@ -136,12 +136,13 @@ namespace NewPlat.UI
             // test
             // 
             this.test.Location = new System.Drawing.Point(1411, 94);
-            this.test.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.test.Margin = new System.Windows.Forms.Padding(4);
             this.test.Name = "test";
             this.test.Size = new System.Drawing.Size(75, 22);
             this.test.TabIndex = 4;
             this.test.Text = "test";
             this.test.UseVisualStyleBackColor = true;
+            this.test.Visible = false;
             this.test.Click += new System.EventHandler(this.test_Click);
             // 
             // TB_Listener
@@ -159,7 +160,7 @@ namespace NewPlat.UI
             // TB_show
             // 
             this.TB_show.Location = new System.Drawing.Point(1508, 47);
-            this.TB_show.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.TB_show.Margin = new System.Windows.Forms.Padding(4);
             this.TB_show.Multiline = true;
             this.TB_show.Name = "TB_show";
             this.TB_show.ScrollBars = System.Windows.Forms.ScrollBars.Both;
@@ -205,13 +206,13 @@ namespace NewPlat.UI
             this.DGV_plat.DefaultCellStyle = dataGridViewCellStyle2;
             this.DGV_plat.EnableHeadersVisualStyles = false;
             this.DGV_plat.Location = new System.Drawing.Point(15, 22);
-            this.DGV_plat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DGV_plat.Margin = new System.Windows.Forms.Padding(4);
             this.DGV_plat.Name = "DGV_plat";
             this.DGV_plat.ReadOnly = true;
             this.DGV_plat.RowHeadersVisible = false;
             this.DGV_plat.RowHeadersWidth = 51;
             this.DGV_plat.RowTemplate.Height = 23;
-            this.DGV_plat.Size = new System.Drawing.Size(1038, 330);
+            this.DGV_plat.Size = new System.Drawing.Size(1073, 330);
             this.DGV_plat.TabIndex = 2;
             this.DGV_plat.Leave += new System.EventHandler(this.DGV_plat_Leave);
             // 
@@ -317,7 +318,7 @@ namespace NewPlat.UI
             this.DGV_MeterInfo.DefaultCellStyle = dataGridViewCellStyle4;
             this.DGV_MeterInfo.EnableHeadersVisualStyles = false;
             this.DGV_MeterInfo.Location = new System.Drawing.Point(15, 380);
-            this.DGV_MeterInfo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DGV_MeterInfo.Margin = new System.Windows.Forms.Padding(4);
             this.DGV_MeterInfo.Name = "DGV_MeterInfo";
             dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle5.BackColor = System.Drawing.SystemColors.Control;
@@ -422,7 +423,7 @@ namespace NewPlat.UI
             // 
             this.BT_Canccel.Font = new System.Drawing.Font("宋体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.BT_Canccel.Location = new System.Drawing.Point(1325, 183);
-            this.BT_Canccel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BT_Canccel.Margin = new System.Windows.Forms.Padding(4);
             this.BT_Canccel.Name = "BT_Canccel";
             this.BT_Canccel.Size = new System.Drawing.Size(138, 56);
             this.BT_Canccel.TabIndex = 11;
@@ -433,8 +434,8 @@ namespace NewPlat.UI
             // BT_SE
             // 
             this.BT_SE.Font = new System.Drawing.Font("楷体", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.BT_SE.Location = new System.Drawing.Point(1096, 183);
-            this.BT_SE.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BT_SE.Location = new System.Drawing.Point(1130, 183);
+            this.BT_SE.Margin = new System.Windows.Forms.Padding(4);
             this.BT_SE.Name = "BT_SE";
             this.BT_SE.Size = new System.Drawing.Size(138, 56);
             this.BT_SE.TabIndex = 0;
@@ -490,6 +491,17 @@ namespace NewPlat.UI
             this.toolStripButton3.Text = "平台恢复";
             this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
+            // TSB_search
+            // 
+            this.TSB_search.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.TSB_search.Image = global::NewPlat.Properties.Resources.f12;
+            this.TSB_search.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.TSB_search.Name = "TSB_search";
+            this.TSB_search.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.TSB_search.Size = new System.Drawing.Size(154, 28);
+            this.TSB_search.Text = "数据库查询";
+            this.TSB_search.Click += new System.EventHandler(this.TSB_search_Click);
+            // 
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.DGV_SB);
@@ -497,9 +509,9 @@ namespace NewPlat.UI
             this.groupBox4.Controls.Add(this.DGV_HG);
             this.groupBox4.Font = new System.Drawing.Font("楷体", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.groupBox4.Location = new System.Drawing.Point(1079, 390);
-            this.groupBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox4.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox4.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox4.Size = new System.Drawing.Size(524, 469);
             this.groupBox4.TabIndex = 17;
             this.groupBox4.TabStop = false;
@@ -537,7 +549,7 @@ namespace NewPlat.UI
             this.DGV_SB.DefaultCellStyle = dataGridViewCellStyle9;
             this.DGV_SB.EnableHeadersVisualStyles = false;
             this.DGV_SB.Location = new System.Drawing.Point(356, 28);
-            this.DGV_SB.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DGV_SB.Margin = new System.Windows.Forms.Padding(4);
             this.DGV_SB.Name = "DGV_SB";
             dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle10.BackColor = System.Drawing.SystemColors.Control;
@@ -600,7 +612,7 @@ namespace NewPlat.UI
             this.DGV_BHG.DefaultCellStyle = dataGridViewCellStyle13;
             this.DGV_BHG.EnableHeadersVisualStyles = false;
             this.DGV_BHG.Location = new System.Drawing.Point(188, 28);
-            this.DGV_BHG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DGV_BHG.Margin = new System.Windows.Forms.Padding(4);
             this.DGV_BHG.Name = "DGV_BHG";
             dataGridViewCellStyle14.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle14.BackColor = System.Drawing.SystemColors.Control;
@@ -662,7 +674,7 @@ namespace NewPlat.UI
             this.DGV_HG.DefaultCellStyle = dataGridViewCellStyle17;
             this.DGV_HG.EnableHeadersVisualStyles = false;
             this.DGV_HG.Location = new System.Drawing.Point(19, 28);
-            this.DGV_HG.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DGV_HG.Margin = new System.Windows.Forms.Padding(4);
             this.DGV_HG.Name = "DGV_HG";
             dataGridViewCellStyle18.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle18.BackColor = System.Drawing.SystemColors.Control;
@@ -724,22 +736,11 @@ namespace NewPlat.UI
             this.PB_LIS.BackColor = System.Drawing.SystemColors.Control;
             this.PB_LIS.Image = global::NewPlat.Properties.Resources.lisenter;
             this.PB_LIS.Location = new System.Drawing.Point(1113, 55);
-            this.PB_LIS.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.PB_LIS.Margin = new System.Windows.Forms.Padding(4);
             this.PB_LIS.Name = "PB_LIS";
             this.PB_LIS.Size = new System.Drawing.Size(40, 35);
             this.PB_LIS.TabIndex = 10;
             this.PB_LIS.TabStop = false;
-            // 
-            // TSB_search
-            // 
-            this.TSB_search.Font = new System.Drawing.Font("楷体", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.TSB_search.Image = global::NewPlat.Properties.Resources.f12;
-            this.TSB_search.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.TSB_search.Name = "TSB_search";
-            this.TSB_search.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.TSB_search.Size = new System.Drawing.Size(154, 28);
-            this.TSB_search.Text = "数据库查询";
-            this.TSB_search.Click += new System.EventHandler(this.TSB_search_Click);
             // 
             // PlatManger
             // 
@@ -758,7 +759,7 @@ namespace NewPlat.UI
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.groupBox4);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "PlatManger";
             this.Text = "分级智能检测平台";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

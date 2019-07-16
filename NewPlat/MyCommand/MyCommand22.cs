@@ -68,21 +68,25 @@ namespace NewPlat.MyCommand
                 info_sb.Append(info.Data.Substring(16, 4));
                 switch (cmd_type)
                 {
+                    //膜式表
                     case "1":
                         len = 24;
                         len_every = 10;
                         starti = 0;
                         break;
+                    //IC
                     case "2":
                         len = 18;
                         len_every = 4;
                         starti = 10;
                         break;
+                        //命令
                     case "3":
                         len = 20;
                         len_every = 6;
                         starti = 14;
                         break;
+                        //终检
                     case "4":
                         len = 26;
                         len_every = 12;
